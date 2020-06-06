@@ -65,9 +65,6 @@ treepredict.finalize_deviance(deviance_dic)
 treepredict.printtree(tree)
 treepredict.print_r2_by_recursive_call(tree, deviance_dic)
 
-drawtree.drawtree(tree, data_dir + r'Prune-treeview.png', 
-        263, 282, deviance_dic, 4, 3)
-
 import sys
 
 old_stdout = sys.stdout
@@ -83,3 +80,7 @@ fo.close()
 from file_cmp_diff_ratio import *
 
 file_cmp_diff_ratio(data_dir + test_file, orig_dir + test_file) 
+
+drawtree.drawtree(tree, data_dir + r'Prune-treeview.png', 
+        263, 282, deviance_dic, 4, 3)
+
