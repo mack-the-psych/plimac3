@@ -16,3 +16,5 @@ RUN python compile_shelve.py
 
 WORKDIR /workdir/plimac3/Resource/BCCWJ_frequencylist_suw_ver1_0
 RUN python compile_shelve.py
+
+WORKDIR /workdir
