@@ -1,0 +1,25 @@
+Stem_sPOS_Std_Part_of_speech_Count:0.0049? (Deviance:936.7333, Depth:0) Average:272.5667, Count:60
+T-> Passage_FRQ_Lemma_Frq_Mean:52044.5884? (Deviance:660.1250, Depth:1) Average:273.1250, Count:56
+  T-> OSO_Number_Ovl_Synonym_w_Distractor_Options:1.0? (Deviance:57.3333, Depth:2) Average:277.6667, Count:6
+    T-> (Deviance:14.0000, Depth:3) Average:275.0000, Count:3 272.0:1;277.0:1;276.0:1
+    F-> (Deviance:0.6667, Depth:3) Average:280.3333, Count:3 281.0:1;280.0:2
+  F-> Stem_FRQ_Lemma_Frq_Min:746.0? (Deviance:464.1800, Depth:2) Average:272.5800, Count:50
+    T-> (Deviance:12.0000, Depth:3) Average:276.0000, Count:6 273.0:1;276.0:2;277.0:3
+    F-> Stem_sPOS_Std_Part_of_speech_Count:0.0106? (Deviance:372.4318, Depth:3) Average:272.1136, Count:44
+      T-> FRQ_Lemma_Frq_Mean:61957.5? (Deviance:304.0976, Depth:4) Average:272.4390, Count:41
+        T-> (Deviance:10.0000, Depth:5) Average:276.0000, Count:5 274.0:1;275.0:1;276.0:1;278.0:1;277.0:1
+        F-> Stem_Sum_Count_hype_Options:4.0? (Deviance:221.8889, Depth:5) Average:271.9444, Count:36
+          T-> (Deviance:12.6667, Depth:6) Average:275.6667, Count:3 273.0:1;276.0:1;278.0:1
+          F-> Stem_FRQ_Lemma_Frq_SD:31787.9223? (Deviance:163.8788, Depth:6) Average:271.6061, Count:33
+            T-> (Deviance:76.8696, Depth:7) Average:272.3043, Count:23 273.0:6;272.0:2;271.0:4;269.0:1;270.0:4;275.0:4;274.0:2
+            F-> (Deviance:50.0000, Depth:7) Average:270.0000, Count:10 265.0:1;271.0:2;273.0:1;272.0:2;269.0:2;268.0:1;270.0:1
+      F-> (Deviance:4.6667, Depth:4) Average:267.6667, Count:3 269.0:1;268.0:1;266.0:1
+F-> (Deviance:14.7500, Depth:1) Average:264.7500, Count:4 262.0:1;264.0:1;266.0:1;267.0:1
+R2 after 0 recursive call(s): 0.0000
+R2 after 1 recursive call(s): 0.2795
+R2 after 2 recursive call(s): 0.4275
+R2 after 3 recursive call(s): 0.5582
+R2 after 4 recursive call(s): 0.6262
+R2 after 5 recursive call(s): 0.7033
+R2 after 6 recursive call(s): 0.7517
+R2 after 7 recursive call(s): 0.7912

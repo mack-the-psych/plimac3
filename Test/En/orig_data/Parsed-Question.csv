@@ -1,0 +1,2526 @@
+AC_Doc_ID,Question#,Passage_Name,Reference_Passage_Section,Key,Difficulty,Avg_Score,Proportion_Correct,Question ID,Description,Grade,Year,Block ID,Seq#,Type,NAEP ID,Contexts for Reading (1992-2007),Aspects of Reading (1992-2007),Content Area (2009 and on),Cognitive Target (2009 and on),Pre_Col_Name,Content,Cntnt_Parsed,1200_a.d.,15_minute,16-year_period,19th_amendment,"2,000_new","30,000_emigrant",50_meter,6_p.m,6_p.m.,actual_diary_entry,african_animal,alien_invasion,alien_specie,america_'s_freedom,america_'s_legal_system,america_'s_woman,american_indian,american_worker,anasazi_'s_life,aquarium_visitor,area_'s,australian_continent,australian_farmer,australian_official,author_'s_point,author_imply,avoid_new_experience,baby_shark,baby_white_shark,berkeley_'s_reaction,big_occasion,border_guard,border_war,brief_diary_account,british_soldier,california_speak,cane_toad,cane_toad_problem,careful_note,careful_research,case_state,cause_such,central_purpose,charitable_contribution,city_budget,cliff_dwell,common_belief,computer-generated_graphic,computer_maker,consultant_hundred,crazy_horse,crook_immigration_agent,current_technology,daily_activity,dangerous_area,dangerous_experience,dark_clothe,different_food,different_method,dix_'s_health,dorothea_dix,dorothea_dix_'s_first_memorial,dorothea_dix_'s_goal,dorothea_dix_'s_poor_health,early_immigrant,eat_beetle,elizabeth_cady_stanton,elli_island,ellie_'s,ellie_'s_achievement,ellie_'s_find,ellie_learn,enough_fun,equal_right_amendment,equal_vote_right,european_country,everyone_'s_attention,famous_entranceway,famous_scientist,few_doctor,financial_problem,first_page,first_passage,first_permanent_suffrage_law,first_time,fish_boat,flat_land,follow_paragraph,follow_sentence,foreign_ship,fourth_meter,french_fur_trader,frequent_break,fun_activity,gail_collins_suggest,good_cause,good_health,government_'s_help,great_plain,great_respect,historical_context,important_event,important_leader,important_political_event,important_symbol,improve_government_service,invasive_specie,john_o'sullivan,join_group,large_catfish,large_group,large_number,large_ship,large_tank,live_condition,locate_metal_puck,long_time,main_purpose,major_source,many_different_country,many_hardship,many_opportunity,many_people,many_state,many_useful_object,many_viewpoint,medical_examination,mental_illness,meter_cost,meter_monitor,meter_project,move_furniture,much_fun,much_political_influence,multiple_definition,national_law,native_beetle_population,native_country,natural_material,new_jersey,newspaper_reporter,next-to-last_paragraph,next_few_year,nineteenth_century,ocean_travel,official_think,one_white_shark,only_port,open_can,open_door,oregon_territory,oregon_trail,other_crop,other_fish,other_fish_live,other_shark,other_student,outer_tank,own_battery,own_park_meter_story,page_2,page_3,page_4,page_5,particular_point,people_think,perform_five_basic_behavior,person_'s_reputation,personal_information,personal_tragedy,photograph_support,political_debate,political_party,primary_build_material,private_citizen,public_office,real-world_example,recent_scientific_discovery,red_cloud,religious_leader,research_facility,responsible_product,robert_sterling,science_fair,second_passage,serious_problem,several_member,short_story,simple_social_contract,small_goal,small_number,small_space,someone_'s_home,special_float_pen,specialize_task,speech_lesson,state_'s_prison,state_legislature,student_'_progress,student_new_concept,suffrage_movement,suffragist_movement,sugarcane_crop,sunday_school_teacher,susan_b._anthony,teach_others,ten_digital_meter,terrible_mistake,train_dorothea_dix,trust_fund,two_woman,unite_state,unrealistic_attitude,unsolved_mystery,vast_park,walt_disney,western_unite_state,white_shark,wide_range,woman_'s_movement,woman_'s_suffrage,woman_'s_vote_right,wyoming_territory
+0,1,[1],Page 3,C,1,276,0.74,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,2,MC,R060302,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"1. On page 3, when the author mentions the possibility of people turning into puritans, she is using this word to refer to people who","(S (NP 1/CD) ./.);(S
+  On/IN
+  (NP page/NN 3/CD)
+  ,/,
+  when/WRB
+  the/DT
+  (NP author/NN)
+  mentions/VBZ
+  the/DT
+  (NP possibility/NN)
+  of/IN
+  (NP people/NNS)
+  turning/VBG
+  into/IN
+  (NP puritans/NNS)
+  ,/,
+  she/PRP
+  is/VBZ
+  using/VBG
+  this/DT
+  (NP word/NN)
+  to/TO
+  refer/VB
+  to/TO
+  (NP people/NNS)
+  who/WP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,[1],Page 3,C,1,276,0.74,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,2,MC,R060302,NoAsign,NoAsign,Informational,Integrate/Interpret,A,lived a long time ago,(S lived/VBD a/DT (NP long/JJ time/NN) ago/IN);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,1,[1],Page 3,C,1,276,0.74,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,2,MC,R060302,NoAsign,NoAsign,Informational,Integrate/Interpret,B,rarely make a mistake,(S rarely/RB make/VB a/DT (NP mistake/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,1,[1],Page 3,C,1,276,0.74,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,2,MC,R060302,NoAsign,NoAsign,Informational,Integrate/Interpret,C,are serious and reserved,(S are/VBP (NP serious/JJ) and/CC reserved/VBD);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,1,[1],Page 3,C,1,276,0.74,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,2,MC,R060302,NoAsign,NoAsign,Informational,Integrate/Interpret,D,dress in plain and dark clothing,(S (NP dress/NN) in/IN (NP plain/NN) and/CC (NP dark/NN clothing/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,2,[1],Page 3,A,1,272,0.79,2013-8R4,Interpret opening paragraphs to recognize main idea,8,2013,8R4,3,MC,R060304,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"2. At the beginning of the essay, the author suggests that people are so concerned with having fun that they","(S (NP 2/CD) ./.);(S
+  At/IN
+  the/DT
+  (NP beginning/NN)
+  of/IN
+  the/DT
+  (NP essay/NN)
+  ,/,
+  the/DT
+  (NP author/NN)
+  suggests/VBZ
+  that/IN
+  (NP people/NNS)
+  are/VBP
+  so/RB
+  (NP concerned/JJ)
+  with/IN
+  having/VBG
+  (NP fun/NN)
+  that/IN
+  they/PRP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,2,[1],Page 3,A,1,272,0.79,2013-8R4,Interpret opening paragraphs to recognize main idea,8,2013,8R4,3,MC,R060304,NoAsign,NoAsign,Informational,Integrate/Interpret,A,try to find fun in all their experiences,"(S
+  (NP try/NN)
+  to/TO
+  find/VB
+  (NP fun/NN)
+  in/IN
+  all/DT
+  their/PRP$
+  (NP experiences/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,2,[1],Page 3,A,1,272,0.79,2013-8R4,Interpret opening paragraphs to recognize main idea,8,2013,8R4,3,MC,R060304,NoAsign,NoAsign,Informational,Integrate/Interpret,B,spend a lot of money trying to have fun,"(S
+  spend/VB
+  a/DT
+  (NP lot/NN)
+  of/IN
+  (NP money/NN)
+  trying/VBG
+  to/TO
+  have/VB
+  (NP fun/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,2,[1],Page 3,A,1,272,0.79,2013-8R4,Interpret opening paragraphs to recognize main idea,8,2013,8R4,3,MC,R060304,NoAsign,NoAsign,Informational,Integrate/Interpret,C,join groups to learn how to have fun,"(S
+  (NP join/NN groups/NNS)
+  to/TO
+  learn/VB
+  how/WRB
+  to/TO
+  have/VB
+  (NP fun/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2,[1],Page 3,A,1,272,0.79,2013-8R4,Interpret opening paragraphs to recognize main idea,8,2013,8R4,3,MC,R060304,NoAsign,NoAsign,Informational,Integrate/Interpret,D,avoid new experiences that may not be fun,"(S
+  (NP avoid/JJ new/JJ experiences/NNS)
+  that/WDT
+  may/MD
+  not/RB
+  be/VB
+  (NP fun/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,3,[1],Page 3;Page 4,B,2,281,0.52,2013-8R4,Recognize implicit supporting idea in persuasive essay,8,2013,8R4,5,MC,R060303,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,3. What is the author's point about big occasions like holidays?,"(S (NP 3/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP author/NN 's/POS point/NN)
+  about/RB
+  (NP big/JJ occasions/NNS)
+  like/IN
+  (NP holidays/NNS)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,3,[1],Page 3;Page 4,B,2,281,0.52,2013-8R4,Recognize implicit supporting idea in persuasive essay,8,2013,8R4,5,MC,R060303,NoAsign,NoAsign,Informational,Integrate/Interpret,A,They go by too quickly to be enjoyed.,"(S
+  They/PRP
+  go/VBP
+  by/IN
+  too/RB
+  quickly/RB
+  to/TO
+  be/VB
+  enjoyed/VBN
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,3,[1],Page 3;Page 4,B,2,281,0.52,2013-8R4,Recognize implicit supporting idea in persuasive essay,8,2013,8R4,5,MC,R060303,NoAsign,NoAsign,Informational,Integrate/Interpret,B,They are not as much fun as people expect them to be.,"(S
+  They/PRP
+  are/VBP
+  not/RB
+  as/RB
+  (NP much/JJ fun/NN)
+  as/IN
+  (NP people/NNS)
+  expect/VBP
+  them/PRP
+  to/TO
+  be/VB
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,3,[1],Page 3;Page 4,B,2,281,0.52,2013-8R4,Recognize implicit supporting idea in persuasive essay,8,2013,8R4,5,MC,R060303,NoAsign,NoAsign,Informational,Integrate/Interpret,C,They have become too centered around money.,"(S
+  They/PRP
+  have/VBP
+  become/VBN
+  too/RB
+  (NP centered/JJ)
+  around/IN
+  (NP money/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,3,[1],Page 3;Page 4,B,2,281,0.52,2013-8R4,Recognize implicit supporting idea in persuasive essay,8,2013,8R4,5,MC,R060303,NoAsign,NoAsign,Informational,Integrate/Interpret,D,They help us to appreciate the important events in life.,"(S
+  They/PRP
+  help/VBP
+  us/PRP
+  to/TO
+  appreciate/VB
+  the/DT
+  (NP important/JJ events/NNS)
+  in/IN
+  (NP life/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,4,[1],Page 3;Page 4,C,1,277,0.63,2013-8R4,Recognize assumption related to author's point of view in persuasive essay,8,2013,8R4,7,MC,R060307,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,4. The author assumes that the people reading her essay,"(S (NP 4/CD) ./.);(S
+  The/DT
+  (NP author/NN)
+  assumes/VBZ
+  that/IN
+  the/DT
+  (NP people/NNS)
+  reading/VBG
+  her/PRP$
+  (NP essay/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,4,[1],Page 3;Page 4,C,1,277,0.63,2013-8R4,Recognize assumption related to author's point of view in persuasive essay,8,2013,8R4,7,MC,R060307,NoAsign,NoAsign,Informational,Integrate/Interpret,A,probably had fun going to amusement parks as children,"(S
+  probably/RB
+  had/VBD
+  fun/VBN
+  going/VBG
+  to/TO
+  amusement/VB
+  (NP parks/NNS)
+  as/IN
+  (NP children/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,4,[1],Page 3;Page 4,C,1,277,0.63,2013-8R4,Recognize assumption related to author's point of view in persuasive essay,8,2013,8R4,7,MC,R060307,NoAsign,NoAsign,Informational,Integrate/Interpret,B,prefer dangerous experiences over fun activities,"(S
+  prefer/RB
+  (NP dangerous/JJ experiences/NNS)
+  over/IN
+  (NP fun/NN activities/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,4,[1],Page 3;Page 4,C,1,277,0.63,2013-8R4,Recognize assumption related to author's point of view in persuasive essay,8,2013,8R4,7,MC,R060307,NoAsign,NoAsign,Informational,Integrate/Interpret,C,may be worried that they are not having enough fun,"(S
+  may/MD
+  be/VB
+  worried/VBN
+  that/IN
+  they/PRP
+  are/VBP
+  not/RB
+  having/VBG
+  (NP enough/JJ fun/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,4,[1],Page 3;Page 4,C,1,277,0.63,2013-8R4,Recognize assumption related to author's point of view in persuasive essay,8,2013,8R4,7,MC,R060307,NoAsign,NoAsign,Informational,Integrate/Interpret,D,enjoy discussing the topic of fun,"(S
+  (NP enjoy/NN)
+  discussing/VBG
+  the/DT
+  (NP topic/NN)
+  of/IN
+  (NP fun/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,5,[1],Page 4,B,2,280,0.49,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,8,MC,R060308,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"5. On page 4, when the author tells us to ""treat fun reverently,"" she is encouraging us to","(S (NP 5/CD) ./.);(S
+  On/IN
+  (NP page/NN 4/CD)
+  ,/,
+  when/WRB
+  the/DT
+  (NP author/NN)
+  tells/VBZ
+  us/PRP
+  to/TO
+  ``/``
+  treat/VB
+  (NP fun/NN)
+  reverently/RB
+  ,/,
+  ''/''
+  she/PRP
+  is/VBZ
+  encouraging/VBG
+  us/PRP
+  to/TO);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,5,[1],Page 4,B,2,280,0.49,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,8,MC,R060308,NoAsign,NoAsign,Informational,Integrate/Interpret,A,look forward to having fun,(S look/VB forward/RB to/TO having/VBG (NP fun/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,5,[1],Page 4,B,2,280,0.49,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,8,MC,R060308,NoAsign,NoAsign,Informational,Integrate/Interpret,B,have great respect for fun,(S have/VB (NP great/JJ respect/NN) for/IN (NP fun/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,5,[1],Page 4,B,2,280,0.49,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,8,MC,R060308,NoAsign,NoAsign,Informational,Integrate/Interpret,C,teach others how to have fun,(S (NP teach/NN others/NNS) how/WRB to/TO have/VB (NP fun/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,
+24,5,[1],Page 4,B,2,280,0.49,2013-8R4,Recognize meaning of word as used in persuasive essay,8,2013,8R4,8,MC,R060308,NoAsign,NoAsign,Informational,Integrate/Interpret,D,have fun less frequently,(S have/VB (NP fun/NN) less/RBR frequently/RB);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,6,[1],Page 3,D,1,280,0.61,2013-8R4,Recognize generalization of main idea of persuasive essay based on one paragraph,8,2013,8R4,10,MC,R060310,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"The following paragraph is from the essay.
+
+     Think of all the things that got the reputation of being fun.
+Family outings were supposed to be fun. Education was supposed to be fun. Work was supposed to be fun. Walt Disney was supposed to be fun. Church was supposed to be fun.
+Staying fit was supposed to be fun. 
+
+6. What is the author implying in this paragraph?","(S
+  The/DT
+  (NP following/JJ paragraph/NN)
+  is/VBZ
+  from/IN
+  the/DT
+  (NP essay/NN)
+  ./.);(S
+  (NP Think/NN)
+  of/IN
+  all/PDT
+  the/DT
+  (NP things/NNS)
+  that/WDT
+  got/VBD
+  the/DT
+  (NP reputation/NN)
+  of/IN
+  being/VBG
+  (NP fun/NN)
+  ./.);(S
+  Family/RB
+  (NP outings/NNS)
+  were/VBD
+  supposed/VBN
+  to/TO
+  be/VB
+  (NP fun/NN)
+  ./.);(S
+  (NP Education/NN)
+  was/VBD
+  supposed/VBN
+  to/TO
+  be/VB
+  (NP fun/NN)
+  ./.);(S (NP Work/NN) was/VBD supposed/VBN to/TO be/VB (NP fun/NN) ./.);(S
+  (NP Walt/NNP Disney/NNP)
+  was/VBD
+  supposed/VBN
+  to/TO
+  be/VB
+  (NP fun/NN)
+  ./.);(S (NP Church/NN) was/VBD supposed/VBN to/TO be/VB (NP fun/NN) ./.);(S
+  Staying/VBG
+  (NP fit/NN)
+  was/VBD
+  supposed/VBN
+  to/TO
+  be/VB
+  (NP fun/NN)
+  ./.);(S (NP 6/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP author/NN implying/NN)
+  in/IN
+  this/DT
+  (NP paragraph/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,
+26,6,[1],Page 3,D,1,280,0.61,2013-8R4,Recognize generalization of main idea of persuasive essay based on one paragraph,8,2013,8R4,10,MC,R060310,NoAsign,NoAsign,Informational,Integrate/Interpret,A,It is possible to have fun in a wide range of activities.,"(S
+  It/PRP
+  is/VBZ
+  (NP possible/JJ)
+  to/TO
+  have/VB
+  fun/VBN
+  in/IN
+  a/DT
+  (NP wide/JJ range/NN)
+  of/IN
+  (NP activities/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,
+27,6,[1],Page 3,D,1,280,0.61,2013-8R4,Recognize generalization of main idea of persuasive essay based on one paragraph,8,2013,8R4,10,MC,R060310,NoAsign,NoAsign,Informational,Integrate/Interpret,B,A person's reputation is based on how much fun the person has.,"(S
+  A/DT
+  (NP person/NN 's/POS reputation/NN)
+  is/VBZ
+  based/VBN
+  on/IN
+  how/WRB
+  (NP much/JJ fun/NN)
+  the/DT
+  (NP person/NN)
+  has/VBZ
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,6,[1],Page 3,D,1,280,0.61,2013-8R4,Recognize generalization of main idea of persuasive essay based on one paragraph,8,2013,8R4,10,MC,R060310,NoAsign,NoAsign,Informational,Integrate/Interpret,C,Most daily activities are less important than we think.,"(S
+  Most/JJS
+  (NP daily/JJ activities/NNS)
+  are/VBP
+  less/RBR
+  (NP important/JJ)
+  than/IN
+  we/PRP
+  think/VBP
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,6,[1],Page 3,D,1,280,0.61,2013-8R4,Recognize generalization of main idea of persuasive essay based on one paragraph,8,2013,8R4,10,MC,R060310,NoAsign,NoAsign,Informational,Integrate/Interpret,D,We should not expect everything in life to be fun.,"(S
+  We/PRP
+  should/MD
+  not/RB
+  expect/VB
+  (NP everything/NN)
+  in/IN
+  (NP life/NN)
+  to/TO
+  be/VB
+  (NP fun/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,7,[2],Page 2;Page 3;Page 4,D,1,273,0.62,2013-8R8,Recognize main purpose of article,8,2013,8R8,1,MC,R059101,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,7. What is the main purpose of the article?,"(S (NP 7/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP main/JJ purpose/NN)
+  of/IN
+  the/DT
+  (NP article/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,7,[2],Page 2;Page 3;Page 4,D,1,273,0.62,2013-8R8,Recognize main purpose of article,8,2013,8R8,1,MC,R059101,NoAsign,NoAsign,Informational,Integrate/Interpret,A,To explain why the aquarium released the white shark,"(S
+  To/TO
+  explain/VB
+  why/WRB
+  the/DT
+  (NP aquarium/NN)
+  released/VBD
+  the/DT
+  (NP white/JJ shark/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,
+32,7,[2],Page 2;Page 3;Page 4,D,1,273,0.62,2013-8R8,Recognize main purpose of article,8,2013,8R8,1,MC,R059101,NoAsign,NoAsign,Informational,Integrate/Interpret,B,To compare white sharks with other fish living in captivity,"(S
+  To/TO
+  compare/VB
+  (NP white/JJ sharks/NNS)
+  with/IN
+  (NP other/JJ fish/JJ living/NN)
+  in/IN
+  (NP captivity/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,
+33,7,[2],Page 2;Page 3;Page 4,D,1,273,0.62,2013-8R8,Recognize main purpose of article,8,2013,8R8,1,MC,R059101,NoAsign,NoAsign,Informational,Integrate/Interpret,C,To argue that white sharks should be studied more,"(S
+  To/TO
+  argue/VB
+  that/IN
+  (NP white/JJ sharks/NNS)
+  should/MD
+  be/VB
+  studied/VBN
+  more/JJR);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,
+34,7,[2],Page 2;Page 3;Page 4,D,1,273,0.62,2013-8R8,Recognize main purpose of article,8,2013,8R8,1,MC,R059101,NoAsign,NoAsign,Informational,Integrate/Interpret,D,To describe how one white shark survived living in an aquarium,"(S
+  To/TO
+  describe/VB
+  how/WRB
+  (NP one/CD white/JJ shark/NN)
+  survived/VBD
+  (NP living/NN)
+  in/IN
+  an/DT
+  (NP aquarium/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,8,[2],Page 2,B,1,271,0.92,2013-8R8,Recognize meaning of a word as used in an article,8,2013,8R8,2,MC,R059102,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"8. On page 2, when John O'Sullivan says the baby white shark is fascinating, he means that she","(S (NP 8/CD) ./.);(S
+  On/IN
+  (NP page/NN 2/CD)
+  ,/,
+  when/WRB
+  (NP John/NNP O'Sullivan/NNP)
+  says/VBZ
+  the/DT
+  (NP baby/NN white/JJ shark/NN)
+  is/VBZ
+  fascinating/VBG
+  ,/,
+  he/PRP
+  means/VBZ
+  that/IN
+  she/PRP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,8,[2],Page 2,B,1,271,0.92,2013-8R8,Recognize meaning of a word as used in an article,8,2013,8R8,2,MC,R059102,NoAsign,NoAsign,Informational,Integrate/Interpret,A,was swimming very fast,(S was/VBD swimming/VBG very/RB fast/RB);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,8,[2],Page 2,B,1,271,0.92,2013-8R8,Recognize meaning of a word as used in an article,8,2013,8R8,2,MC,R059102,NoAsign,NoAsign,Informational,Integrate/Interpret,B,was very interesting to watch,(S was/VBD very/RB (NP interesting/JJ) to/TO watch/VB);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,8,[2],Page 2,B,1,271,0.92,2013-8R8,Recognize meaning of a word as used in an article,8,2013,8R8,2,MC,R059102,NoAsign,NoAsign,Informational,Integrate/Interpret,C,could swim better than other sharks,(S could/MD swim/VB better/JJR than/IN (NP other/JJ sharks/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,8,[2],Page 2,B,1,271,0.92,2013-8R8,Recognize meaning of a word as used in an article,8,2013,8R8,2,MC,R059102,NoAsign,NoAsign,Informational,Integrate/Interpret,D,liked to perform for aquarium visitors,(S liked/VBN to/TO perform/VB for/IN (NP aquarium/NN visitors/NNS));,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,9,[2],Page 2;Page 3;Page 4,C,1,276,0.75,2013-8R8,Make an inference based on explicitly stated information,8,2013,8R8,3,MC,R059103,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"9. According to the article, why has it been difficult to keep white sharks in captivity?","(S (NP 9/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  why/WRB
+  has/VBZ
+  it/PRP
+  been/VBN
+  (NP difficult/JJ)
+  to/TO
+  keep/VB
+  (NP white/JJ sharks/NNS)
+  in/IN
+  (NP captivity/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,
+41,9,[2],Page 2;Page 3;Page 4,C,1,276,0.75,2013-8R8,Make an inference based on explicitly stated information,8,2013,8R8,3,MC,R059103,NoAsign,NoAsign,Informational,Locate/Recall,A,They grow too quickly.,(S They/PRP grow/VBP too/RB quickly/RB ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,9,[2],Page 2;Page 3;Page 4,C,1,276,0.75,2013-8R8,Make an inference based on explicitly stated information,8,2013,8R8,3,MC,R059103,NoAsign,NoAsign,Informational,Locate/Recall,B,They escape from the outer tank.,(S They/PRP escape/VBP from/IN the/DT (NP outer/NN tank/NN) ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,9,[2],Page 2;Page 3;Page 4,C,1,276,0.75,2013-8R8,Make an inference based on explicitly stated information,8,2013,8R8,3,MC,R059103,NoAsign,NoAsign,Informational,Locate/Recall,C,They do not eat.,(S They/PRP do/VBP not/RB eat/VB ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,9,[2],Page 2;Page 3;Page 4,C,1,276,0.75,2013-8R8,Make an inference based on explicitly stated information,8,2013,8R8,3,MC,R059103,NoAsign,NoAsign,Informational,Locate/Recall,D,They need very large tanks.,(S They/PRP need/VBP very/RB (NP large/JJ tanks/NNS) ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,10,[2],Page 2,A,1,271,0.95,2013-8R8,Recognize meaning of word as used in an article,8,2013,8R8,4,MC,R059104,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"10. On page 2, when the article says that the baby shark had been caught accidentally, this means that","(S (NP 10/CD) ./.);(S
+  On/IN
+  (NP page/NN 2/CD)
+  ,/,
+  when/WRB
+  the/DT
+  (NP article/NN)
+  says/VBZ
+  that/IN
+  the/DT
+  (NP baby/NN shark/NN)
+  had/VBD
+  been/VBN
+  caught/VBN
+  accidentally/RB
+  ,/,
+  this/DT
+  means/VBZ
+  that/IN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,10,[2],Page 2,A,1,271,0.95,2013-8R8,Recognize meaning of word as used in an article,8,2013,8R8,4,MC,R059104,NoAsign,NoAsign,Informational,Integrate/Interpret,A,the fisherman was not trying to catch a shark,"(S
+  the/DT
+  (NP fisherman/NN)
+  was/VBD
+  not/RB
+  trying/VBG
+  to/TO
+  catch/VB
+  a/DT
+  (NP shark/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,10,[2],Page 2,A,1,271,0.95,2013-8R8,Recognize meaning of word as used in an article,8,2013,8R8,4,MC,R059104,NoAsign,NoAsign,Informational,Integrate/Interpret,B,the shark was hurt while it was being caught,"(S
+  the/DT
+  (NP shark/NN)
+  was/VBD
+  hurt/VBN
+  while/IN
+  it/PRP
+  was/VBD
+  being/VBG
+  caught/VBN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,10,[2],Page 2,A,1,271,0.95,2013-8R8,Recognize meaning of word as used in an article,8,2013,8R8,4,MC,R059104,NoAsign,NoAsign,Informational,Integrate/Interpret,C,the fisherman had used a special floating pen,"(S
+  the/DT
+  (NP fisherman/NN)
+  had/VBD
+  used/VBN
+  a/DT
+  (NP special/JJ floating/NN pen/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,10,[2],Page 2,A,1,271,0.95,2013-8R8,Recognize meaning of word as used in an article,8,2013,8R8,4,MC,R059104,NoAsign,NoAsign,Informational,Integrate/Interpret,D,the shark had bumped into the fishing boat,"(S
+  the/DT
+  (NP shark/NN)
+  had/VBD
+  bumped/VBN
+  into/IN
+  the/DT
+  (NP fishing/NN boat/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,11,[2],Page 2;Page 3;Page 4,A,1,276,0.75,2013-8R8,Recognize explicitly stated information from article,8,2013,8R8,7,MC,R059105,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"11. After she was captured, why was the baby white shark kept in a special floating pen?","(S (NP 11/CD) ./.);(S
+  After/IN
+  she/PRP
+  was/VBD
+  captured/VBN
+  ,/,
+  why/WRB
+  was/VBD
+  the/DT
+  (NP baby/NN white/JJ shark/NN)
+  kept/VBD
+  in/IN
+  a/DT
+  (NP special/JJ)
+  floating/VBG
+  (NP pen/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,11,[2],Page 2;Page 3;Page 4,A,1,276,0.75,2013-8R8,Recognize explicitly stated information from article,8,2013,8R8,7,MC,R059105,NoAsign,NoAsign,Informational,Locate/Recall,A,To help her get used to a small space,"(S
+  To/TO
+  help/VB
+  her/PRP$
+  (NP get/NN)
+  used/VBN
+  to/TO
+  a/DT
+  (NP small/JJ space/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,11,[2],Page 2;Page 3;Page 4,A,1,276,0.75,2013-8R8,Recognize explicitly stated information from article,8,2013,8R8,7,MC,R059105,NoAsign,NoAsign,Informational,Locate/Recall,B,To make sure she would not attack other fish,"(S
+  To/TO
+  make/VB
+  (NP sure/JJ)
+  she/PRP
+  would/MD
+  not/RB
+  attack/VB
+  (NP other/JJ fish/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,11,[2],Page 2;Page 3;Page 4,A,1,276,0.75,2013-8R8,Recognize explicitly stated information from article,8,2013,8R8,7,MC,R059105,NoAsign,NoAsign,Informational,Locate/Recall,C,To help her learn how to eat different food,"(S
+  To/TO
+  help/VB
+  her/PRP$
+  learn/VB
+  how/WRB
+  to/TO
+  eat/VB
+  (NP different/JJ food/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,11,[2],Page 2;Page 3;Page 4,A,1,276,0.75,2013-8R8,Recognize explicitly stated information from article,8,2013,8R8,7,MC,R059105,NoAsign,NoAsign,Informational,Locate/Recall,D,To make sure she was not sick,(S To/TO make/VB (NP sure/JJ) she/PRP was/VBD not/RB (NP sick/JJ));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,12,[2],Page 2;Page 3;Page 4,D,1,273,0.8,2013-8R8,Use text or graphic to recognize an explanation,8,2013,8R8,8,MC,R059107,NoAsign,NoAsign,Informational,Locate/Recall,Stem,12. Why did scientists attach a tag to the white shark before setting her free?,"(S (NP 12/CD) ./.);(S
+  Why/WRB
+  did/VBD
+  (NP scientists/NNS)
+  attach/VB
+  a/DT
+  (NP tag/NN)
+  to/TO
+  the/DT
+  (NP white/JJ shark/NN)
+  before/IN
+  setting/VBG
+  her/PRP$
+  (NP free/JJ)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,
+56,12,[2],Page 2;Page 3;Page 4,D,1,273,0.8,2013-8R8,Use text or graphic to recognize an explanation,8,2013,8R8,8,MC,R059107,NoAsign,NoAsign,Informational,Locate/Recall,A,To track her growth over the next few years,"(S
+  To/TO
+  track/VB
+  her/PRP$
+  (NP growth/NN)
+  over/IN
+  the/DT
+  (NP next/JJ few/JJ years/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,12,[2],Page 2;Page 3;Page 4,D,1,273,0.8,2013-8R8,Use text or graphic to recognize an explanation,8,2013,8R8,8,MC,R059107,NoAsign,NoAsign,Informational,Locate/Recall,B,To make sure she stayed healthy after her release,"(S
+  To/TO
+  make/VB
+  (NP sure/JJ)
+  she/PRP
+  stayed/VBD
+  (NP healthy/JJ)
+  after/IN
+  her/PRP$
+  (NP release/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,12,[2],Page 2;Page 3;Page 4,D,1,273,0.8,2013-8R8,Use text or graphic to recognize an explanation,8,2013,8R8,8,MC,R059107,NoAsign,NoAsign,Informational,Locate/Recall,C,To prevent her from being caught by fishing boats,"(S
+  To/TO
+  prevent/VB
+  her/PRP
+  from/IN
+  being/VBG
+  caught/VBN
+  by/IN
+  fishing/VBG
+  (NP boats/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,12,[2],Page 2;Page 3;Page 4,D,1,273,0.8,2013-8R8,Use text or graphic to recognize an explanation,8,2013,8R8,8,MC,R059107,NoAsign,NoAsign,Informational,Locate/Recall,D,To track where she swam after her release,"(S
+  To/TO
+  track/VB
+  where/WRB
+  she/PRP
+  swam/VBD
+  after/IN
+  her/PRP$
+  (NP release/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,13,[3],Page 2;Page 3;Page 4,A,1,277,0.64,2011-8R11,Women Vote: Recognize main purpose of article,8,2011,8R11,1,MC,R060801,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,13. What is the main purpose of the article?,"(S (NP 13/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP main/JJ purpose/NN)
+  of/IN
+  the/DT
+  (NP article/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,13,[3],Page 2;Page 3;Page 4,A,1,277,0.64,2011-8R11,Women Vote: Recognize main purpose of article,8,2011,8R11,1,MC,R060801,NoAsign,NoAsign,Informational,Integrate/Interpret,A,To describe the events leading to the passage of the 19th Amendment,"(S
+  To/TO
+  describe/VB
+  the/DT
+  (NP events/NNS)
+  leading/VBG
+  to/TO
+  the/DT
+  (NP passage/NN)
+  of/IN
+  the/DT
+  (NP 19th/CD Amendment/NN));",,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,13,[3],Page 2;Page 3;Page 4,A,1,277,0.64,2011-8R11,Women Vote: Recognize main purpose of article,8,2011,8R11,1,MC,R060801,NoAsign,NoAsign,Informational,Integrate/Interpret,B,To identify the states that first supported women's voting rights,"(S
+  To/TO
+  identify/VB
+  the/DT
+  (NP states/NNS)
+  that/IN
+  first/RB
+  supported/VBD
+  (NP women/NNS 's/POS voting/NN rights/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,
+63,13,[3],Page 2;Page 3;Page 4,A,1,277,0.64,2011-8R11,Women Vote: Recognize main purpose of article,8,2011,8R11,1,MC,R060801,NoAsign,NoAsign,Informational,Integrate/Interpret,C,To discuss the most important leaders of the suffragist movement in the 1800s,"(S
+  To/TO
+  discuss/VB
+  the/DT
+  most/RBS
+  (NP important/JJ leaders/NNS)
+  of/IN
+  the/DT
+  (NP suffragist/JJ movement/NN)
+  in/IN
+  the/DT
+  (NP 1800s/CD));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,
+64,13,[3],Page 2;Page 3;Page 4,A,1,277,0.64,2011-8R11,Women Vote: Recognize main purpose of article,8,2011,8R11,1,MC,R060801,NoAsign,NoAsign,Informational,Integrate/Interpret,D,To explain why the Equal Rights Amendment has not been ratified,"(S
+  To/TO
+  explain/VB
+  why/WRB
+  the/DT
+  (NP Equal/NNP Rights/NNP Amendment/NNP)
+  has/VBZ
+  not/RB
+  been/VBN
+  ratified/VBN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,14,[3],Page 2;Page 3;Page 4,D,1,272,0.79,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,3,MC,R060804,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"14. According to the article, women in New Jersey in the 1700s could","(S (NP 14/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  (NP women/NNS)
+  in/IN
+  (NP New/NNP Jersey/NNP)
+  in/IN
+  the/DT
+  (NP 1700s/CD)
+  could/MD);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,14,[3],Page 2;Page 3;Page 4,D,1,272,0.79,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,3,MC,R060804,NoAsign,NoAsign,Informational,Locate/Recall,A,campaign for public office,(S (NP campaign/NN) for/IN (NP public/JJ office/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,14,[3],Page 2;Page 3;Page 4,D,1,272,0.79,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,3,MC,R060804,NoAsign,NoAsign,Informational,Locate/Recall,B,participate in political debates,(S participate/VB in/IN (NP political/JJ debates/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,14,[3],Page 2;Page 3;Page 4,D,1,272,0.79,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,3,MC,R060804,NoAsign,NoAsign,Informational,Locate/Recall,C,join political parties,(S join/VB (NP political/JJ parties/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,14,[3],Page 2;Page 3;Page 4,D,1,272,0.79,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,3,MC,R060804,NoAsign,NoAsign,Informational,Locate/Recall,D,vote if they owned property,(S (NP vote/NN) if/IN they/PRP owned/VBD (NP property/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,15,[3],Page 2;Page 3;Page 4,B,2,274,0.59,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,4,MC,R060805,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"15. According to the article, what was most surprising about the ""Womanifesto""?","(S (NP 15/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  what/WP
+  was/VBD
+  most/RBS
+  (NP surprising/JJ)
+  about/IN
+  the/DT
+  ``/``
+  (NP Womanifesto/NNP)
+  ''/''
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,15,[3],Page 2;Page 3;Page 4,B,2,274,0.59,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,4,MC,R060805,NoAsign,NoAsign,Informational,Locate/Recall,A,It was written by Elizabeth Cady Stanton.,"(S
+  It/PRP
+  was/VBD
+  written/VBN
+  by/IN
+  (NP Elizabeth/NNP Cady/NNP Stanton/NNP)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,15,[3],Page 2;Page 3;Page 4,B,2,274,0.59,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,4,MC,R060805,NoAsign,NoAsign,Informational,Locate/Recall,B,It called for equal voting rights for men and women.,"(S
+  It/PRP
+  called/VBD
+  for/IN
+  (NP equal/JJ voting/NN rights/NNS)
+  for/IN
+  (NP men/NNS)
+  and/CC
+  (NP women/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,15,[3],Page 2;Page 3;Page 4,B,2,274,0.59,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,4,MC,R060805,NoAsign,NoAsign,Informational,Locate/Recall,C,It was based on the Declaration of Independence.,"(S
+  It/PRP
+  was/VBD
+  based/VBN
+  on/IN
+  the/DT
+  (NP Declaration/NNP)
+  of/IN
+  (NP Independence/NNP)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,15,[3],Page 2;Page 3;Page 4,B,2,274,0.59,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,4,MC,R060805,NoAsign,NoAsign,Informational,Locate/Recall,D,It had such a large number of resolutions.,"(S
+  It/PRP
+  had/VBD
+  such/PDT
+  a/DT
+  (NP large/JJ number/NN)
+  of/IN
+  (NP resolutions/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,16,[3],Page 3,C,1,273,0.82,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,5,MC,R060806,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"16.  On page 3, the article says that Elizabeth Cady Stanton and Susan B. Anthony would become icons of the women's movement. This means that the two women would","(S (NP 16/CD) ./.);(S
+  On/IN
+  (NP page/NN 3/CD)
+  ,/,
+  the/DT
+  (NP article/NN)
+  says/VBZ
+  that/IN
+  (NP Elizabeth/NNP Cady/NNP Stanton/NNP)
+  and/CC
+  (NP Susan/NNP B./NNP Anthony/NNP)
+  would/MD
+  become/VB
+  (NP icons/NNS)
+  of/IN
+  the/DT
+  (NP women/NNS 's/POS movement/NN)
+  ./.);(S This/DT means/VBZ that/IN the/DT (NP two/CD women/NNS) would/MD);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,1.0,,,
+76,16,[3],Page 3,C,1,273,0.82,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,5,MC,R060806,NoAsign,NoAsign,Informational,Integrate/Interpret,A,become religious leaders,(S become/RB (NP religious/JJ leaders/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,16,[3],Page 3,C,1,273,0.82,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,5,MC,R060806,NoAsign,NoAsign,Informational,Integrate/Interpret,B,"be pictured on the ""Womanifesto"" document","(S
+  be/VB
+  pictured/VBN
+  on/IN
+  the/DT
+  ``/``
+  (NP Womanifesto/NNP)
+  ''/''
+  (NP document/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,16,[3],Page 3,C,1,273,0.82,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,5,MC,R060806,NoAsign,NoAsign,Informational,Integrate/Interpret,C,become important symbols of the movement,"(S
+  become/VBN
+  (NP important/JJ symbols/NNS)
+  of/IN
+  the/DT
+  (NP movement/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,16,[3],Page 3,C,1,273,0.82,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,5,MC,R060806,NoAsign,NoAsign,Informational,Integrate/Interpret,D,be ready to sacrifice everything for the movement,"(S
+  be/VB
+  (NP ready/JJ)
+  to/TO
+  sacrifice/VB
+  (NP everything/NN)
+  for/IN
+  the/DT
+  (NP movement/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,17,[3],Page 3,B,2,271,0.59,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,8,MC,R060802,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"17. On page 3, the article says that women in the suffrage movement ""pressed their case state by state."" This means that the women","(S (NP 17/CD) ./.);(S
+  On/IN
+  (NP page/NN 3/CD)
+  ,/,
+  the/DT
+  (NP article/NN)
+  says/VBZ
+  that/IN
+  (NP women/NNS)
+  in/IN
+  the/DT
+  (NP suffrage/NN movement/NN)
+  ``/``
+  pressed/VBD
+  their/PRP$
+  (NP case/NN state/NN)
+  by/IN
+  (NP state/NN)
+  ./.
+  ''/'');(S This/DT means/VBZ that/IN the/DT (NP women/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
+81,17,[3],Page 3,B,2,271,0.59,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,8,MC,R060802,NoAsign,NoAsign,Informational,Integrate/Interpret,A,spoke with newspaper reporters in many states,"(S
+  (NP spoke/NN)
+  with/IN
+  (NP newspaper/NN reporters/NNS)
+  in/IN
+  (NP many/JJ states/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,17,[3],Page 3,B,2,271,0.59,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,8,MC,R060802,NoAsign,NoAsign,Informational,Integrate/Interpret,B,strongly urged the states to pass women's suffrage,"(S
+  strongly/RB
+  urged/VBD
+  the/DT
+  (NP states/NNS)
+  to/TO
+  pass/VB
+  (NP women/NNS 's/POS suffrage/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,
+83,17,[3],Page 3,B,2,271,0.59,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,8,MC,R060802,NoAsign,NoAsign,Informational,Integrate/Interpret,C,traveled in large groups together from state to state,"(S
+  traveled/VBN
+  in/IN
+  (NP large/JJ groups/NNS)
+  together/RB
+  from/IN
+  (NP state/NN)
+  to/TO
+  (NP state/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,17,[3],Page 3,B,2,271,0.59,2011-8R11,Women Vote: Interpret word as used in article,8,2011,8R11,8,MC,R060802,NoAsign,NoAsign,Informational,Integrate/Interpret,D,introduced the idea of women's suffrage to the states,"(S
+  introduced/VBN
+  the/DT
+  (NP idea/NN)
+  of/IN
+  (NP women/NNS 's/POS suffrage/NN)
+  to/TO
+  the/DT
+  (NP states/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,
+85,18,[3],Page 2;Page 3;Page 4,A,1,278,0.66,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,9,MC,R060809,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"18.  In her book, America's Women, what did Gail Collins suggest was the reason that the Wyoming Territory passed the first permanent suffrage law?","(S (NP 18/CD) ./.);(S
+  In/IN
+  her/PRP$
+  (NP book/NN)
+  ,/,
+  (NP America/NNP 's/POS Women/NNP)
+  ,/,
+  what/WP
+  did/VBD
+  (NP Gail/NNP Collins/NNP suggest/NN)
+  was/VBD
+  the/DT
+  (NP reason/NN)
+  that/IN
+  the/DT
+  (NP Wyoming/NNP Territory/NNP)
+  passed/VBD
+  the/DT
+  (NP first/JJ permanent/JJ suffrage/NN law/NN)
+  ?/.);",,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+86,18,[3],Page 2;Page 3;Page 4,A,1,278,0.66,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,9,MC,R060809,NoAsign,NoAsign,Informational,Locate/Recall,A,Because the small number of women there would not have had much political influence,"(S
+  Because/IN
+  the/DT
+  (NP small/JJ number/NN)
+  of/IN
+  (NP women/NNS)
+  there/RB
+  would/MD
+  not/RB
+  have/VB
+  had/VBN
+  (NP much/JJ political/JJ influence/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,18,[3],Page 2;Page 3;Page 4,A,1,278,0.66,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,9,MC,R060809,NoAsign,NoAsign,Informational,Locate/Recall,B,Because the suffragist movement was very active in the western United States,"(S
+  Because/IN
+  the/DT
+  (NP suffragist/JJ movement/NN)
+  was/VBD
+  very/RB
+  (NP active/JJ)
+  in/IN
+  the/DT
+  (NP western/JJ United/NNP States/NNPS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,1.0,,,,,,
+88,18,[3],Page 2;Page 3;Page 4,A,1,278,0.66,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,9,MC,R060809,NoAsign,NoAsign,Informational,Locate/Recall,C,Because most politicians there chose not to vote on that resolution,"(S
+  Because/IN
+  most/JJS
+  (NP politicians/NNS)
+  there/RB
+  chose/VBD
+  not/RB
+  to/TO
+  vote/VB
+  on/IN
+  that/DT
+  (NP resolution/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,18,[3],Page 2;Page 3;Page 4,A,1,278,0.66,2011-8R11,Women Vote: Locate relevant information,8,2011,8R11,9,MC,R060809,NoAsign,NoAsign,Informational,Locate/Recall,D,Because it was important for women to have the vote in such a dangerous area,"(S
+  Because/IN
+  it/PRP
+  was/VBD
+  (NP important/JJ)
+  for/IN
+  (NP women/NNS)
+  to/TO
+  have/VB
+  the/DT
+  (NP vote/NN)
+  in/IN
+  (NP such/JJ)
+  a/DT
+  (NP dangerous/JJ area/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,19,[4],Page 2;Page 3;Page 4,A,1,270,0.89,2011-8R13,Tech-Trash: Recognize author's persuasive technique,8,2011,8R13,2,MC,R061302,NoAsign,NoAsign,Informational,Critique/Evaluate,Stem,19. Which of the following does the author primarily use to persuade his readers to help fight e-waste?,"(S (NP 19/CD) ./.);(S
+  Which/WDT
+  of/IN
+  the/DT
+  (NP following/NN)
+  does/VBZ
+  the/DT
+  (NP author/NN)
+  primarily/RB
+  use/VB
+  to/TO
+  persuade/VB
+  his/PRP$
+  (NP readers/NNS)
+  to/TO
+  help/VB
+  fight/VB
+  (NP e-waste/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,19,[4],Page 2;Page 3;Page 4,A,1,270,0.89,2011-8R13,Tech-Trash: Recognize author's persuasive technique,8,2011,8R13,2,MC,R061302,NoAsign,NoAsign,Informational,Critique/Evaluate,A,Real-world examples,(S (NP Real-world/JJ examples/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,19,[4],Page 2;Page 3;Page 4,A,1,270,0.89,2011-8R13,Tech-Trash: Recognize author's persuasive technique,8,2011,8R13,2,MC,R061302,NoAsign,NoAsign,Informational,Critique/Evaluate,B,Interviews with scientists,(S (NP Interviews/NNS) with/IN (NP scientists/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,19,[4],Page 2;Page 3;Page 4,A,1,270,0.89,2011-8R13,Tech-Trash: Recognize author's persuasive technique,8,2011,8R13,2,MC,R061302,NoAsign,NoAsign,Informational,Critique/Evaluate,C,Comparison and contrast,(S (NP Comparison/NNP) and/CC (NP contrast/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,19,[4],Page 2;Page 3;Page 4,A,1,270,0.89,2011-8R13,Tech-Trash: Recognize author's persuasive technique,8,2011,8R13,2,MC,R061302,NoAsign,NoAsign,Informational,Critique/Evaluate,D,Historical context,(S (NP Historical/JJ context/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,20,[4],Page 3,C,1,271,0.87,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,5,MC,R061305,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"20.  On page 3, the article says that Robert Sterling uses donated computers to motivate his students. This means he uses these computers to","(S (NP 20/CD) ./.);(S
+  On/IN
+  (NP page/NN 3/CD)
+  ,/,
+  the/DT
+  (NP article/NN)
+  says/VBZ
+  that/IN
+  (NP Robert/NNP Sterling/NNP)
+  uses/VBZ
+  donated/VBD
+  (NP computers/NNS)
+  to/TO
+  motivate/VB
+  his/PRP$
+  (NP students/NNS)
+  ./.);(S
+  This/DT
+  means/VBZ
+  he/PRP
+  uses/VBZ
+  these/DT
+  (NP computers/NNS)
+  to/TO);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,20,[4],Page 3,C,1,271,0.87,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,5,MC,R061305,NoAsign,NoAsign,Informational,Integrate/Interpret,A,communicate more easily with his students,"(S
+  (NP communicate/NN)
+  more/RBR
+  easily/RB
+  with/IN
+  his/PRP$
+  (NP students/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,20,[4],Page 3,C,1,271,0.87,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,5,MC,R061305,NoAsign,NoAsign,Informational,Integrate/Interpret,B,keep track of his students' progress,"(S
+  keep/VB
+  (NP track/NN)
+  of/IN
+  his/PRP$
+  (NP students/NNS '/POS progress/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,
+98,20,[4],Page 3,C,1,271,0.87,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,5,MC,R061305,NoAsign,NoAsign,Informational,Integrate/Interpret,C,encourage his students to be more involved,"(S
+  encourage/VB
+  his/PRP$
+  (NP students/NNS)
+  to/TO
+  be/VB
+  more/JJR
+  (NP involved/JJ));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,20,[4],Page 3,C,1,271,0.87,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,5,MC,R061305,NoAsign,NoAsign,Informational,Integrate/Interpret,D,teach his students new concepts and strategies,"(S
+  teach/VB
+  his/PRP$
+  (NP students/NNS new/JJ concepts/NNS)
+  and/CC
+  (NP strategies/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,
+100,21,[4],Page 3,D,1,275,0.73,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,6,MC,R061306,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"21.  On page 3, the article says that some computer makers are designing more ""environmentally responsible products."" This means that the products are","(S (NP 21/CD) ./.);(S
+  On/IN
+  (NP page/NN 3/CD)
+  ,/,
+  the/DT
+  (NP article/NN)
+  says/VBZ
+  that/IN
+  some/DT
+  (NP computer/NN makers/NNS)
+  are/VBP
+  designing/VBG
+  more/RBR
+  ``/``
+  environmentally/RB
+  (NP responsible/JJ products/NNS)
+  ./.
+  ''/'');(S This/DT means/VBZ that/IN the/DT (NP products/NNS) are/VBP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,21,[4],Page 3,D,1,275,0.73,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,6,MC,R061306,NoAsign,NoAsign,Informational,Integrate/Interpret,A,able to adapt to the environment,(S (NP able/JJ) to/TO adapt/VB to/TO the/DT (NP environment/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,21,[4],Page 3,D,1,275,0.73,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,6,MC,R061306,NoAsign,NoAsign,Informational,Integrate/Interpret,B,required to help the environment,(S required/VBN to/TO help/VB the/DT (NP environment/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,21,[4],Page 3,D,1,275,0.73,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,6,MC,R061306,NoAsign,NoAsign,Informational,Integrate/Interpret,C,made from natural materials,(S made/VBN from/IN (NP natural/JJ materials/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,21,[4],Page 3,D,1,275,0.73,2011-8R13,Tech-Trash: Interpret word as used in article,8,2011,8R13,6,MC,R061306,NoAsign,NoAsign,Informational,Integrate/Interpret,D,less likely to harm the environment,(S less/RBR (NP likely/JJ) to/TO harm/VB the/DT (NP environment/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,22,[4],Page 2;Page 3;Page 4,B,1,273,0.65,2011-8R13,Tech-Trash: Recognize relevant detail,8,2011,8R13,8,MC,R061308,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"22. According to the article, what is another benefit of recycling e-waste besides helping the environment?","(S (NP 22/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  what/WP
+  is/VBZ
+  another/DT
+  (NP benefit/NN)
+  of/IN
+  recycling/VBG
+  (NP e-waste/NN)
+  besides/IN
+  helping/VBG
+  the/DT
+  (NP environment/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,22,[4],Page 2;Page 3;Page 4,B,1,273,0.65,2011-8R13,Tech-Trash: Recognize relevant detail,8,2011,8R13,8,MC,R061308,NoAsign,NoAsign,Informational,Locate/Recall,A,Recycling makes computers easier to build.,"(S
+  Recycling/VBG
+  makes/VBZ
+  (NP computers/NNS)
+  easier/RBR
+  to/TO
+  build/VB
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,22,[4],Page 2;Page 3;Page 4,B,1,273,0.65,2011-8R13,Tech-Trash: Recognize relevant detail,8,2011,8R13,8,MC,R061308,NoAsign,NoAsign,Informational,Locate/Recall,B,Recycling can help raise funds for good causes.,"(S
+  Recycling/VBG
+  can/MD
+  help/VB
+  raise/VB
+  (NP funds/NNS)
+  for/IN
+  (NP good/JJ causes/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,22,[4],Page 2;Page 3;Page 4,B,1,273,0.65,2011-8R13,Tech-Trash: Recognize relevant detail,8,2011,8R13,8,MC,R061308,NoAsign,NoAsign,Informational,Locate/Recall,C,Recycling helps improve current technology.,"(S
+  Recycling/VBG
+  helps/VBZ
+  improve/VB
+  (NP current/JJ technology/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,22,[4],Page 2;Page 3;Page 4,B,1,273,0.65,2011-8R13,Tech-Trash: Recognize relevant detail,8,2011,8R13,8,MC,R061308,NoAsign,NoAsign,Informational,Locate/Recall,D,Recycling improves government services.,(S Recycling/VBG (NP improves/JJ government/NN services/NNS) ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,23,[5],Page 3;Page 4,B,2,275,0.56,2009-8R12,Alien/Home: Central purpose of first article,8,2009,8R12,1,MC,R061101,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"23. What is the central purpose of ""Alien Invasion""?","(S (NP 23/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP central/JJ purpose/NN)
+  of/IN
+  ``/``
+  (NP Alien/NNP Invasion/NNP)
+  ''/''
+  ?/.);",,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,23,[5],Page 3;Page 4,B,2,275,0.56,2009-8R12,Alien/Home: Central purpose of first article,8,2009,8R12,1,MC,R061101,NoAsign,NoAsign,Informational,Integrate/Interpret,A,To point out that invasive species come from many different countries,"(S
+  To/TO
+  point/VB
+  out/RP
+  that/IN
+  (NP invasive/JJ species/NNS)
+  come/VBP
+  from/IN
+  (NP many/JJ different/JJ countries/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,23,[5],Page 3;Page 4,B,2,275,0.56,2009-8R12,Alien/Home: Central purpose of first article,8,2009,8R12,1,MC,R061101,NoAsign,NoAsign,Informational,Integrate/Interpret,B,To argue that invasive species are a serious problem that must be solved,"(S
+  To/TO
+  argue/VB
+  that/IN
+  (NP invasive/JJ species/NNS)
+  are/VBP
+  a/DT
+  (NP serious/JJ problem/NN)
+  that/WDT
+  must/MD
+  be/VB
+  solved/VBN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,23,[5],Page 3;Page 4,B,2,275,0.56,2009-8R12,Alien/Home: Central purpose of first article,8,2009,8R12,1,MC,R061101,NoAsign,NoAsign,Informational,Integrate/Interpret,C,To describe the damage that invasive species cause in Australia,"(S
+  To/TO
+  describe/VB
+  the/DT
+  (NP damage/NN)
+  that/WDT
+  (NP invasive/JJ species/NNS)
+  cause/VBP
+  in/IN
+  (NP Australia/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,23,[5],Page 3;Page 4,B,2,275,0.56,2009-8R12,Alien/Home: Central purpose of first article,8,2009,8R12,1,MC,R061101,NoAsign,NoAsign,Informational,Integrate/Interpret,D,To suggest that invasive species can be stopped only with the government's help,"(S
+  To/TO
+  suggest/VB
+  that/IN
+  (NP invasive/JJ species/NNS)
+  can/MD
+  be/VB
+  stopped/VBN
+  only/RB
+  with/IN
+  the/DT
+  (NP government/NN 's/POS help/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,24,[5],Page 3;Page 4,C,1,272,0.77,2009-8R12,Alien/Home: What form of evidence supports argument,8,2009,8R12,2,MC,R061102,NoAsign,NoAsign,Informational,Critique/Evaluate,Stem,"24. ""Alien Invasion"" relies primarily on what form of evidence as support for its argument?","(S (NP 24/CD) ./.);(S
+  ``/``
+  Alien/DT
+  (NP Invasion/NNP)
+  ''/''
+  relies/VBZ
+  primarily/RB
+  on/IN
+  what/WP
+  (NP form/NN)
+  of/IN
+  (NP evidence/NN)
+  as/IN
+  (NP support/NN)
+  for/IN
+  its/PRP$
+  (NP argument/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,24,[5],Page 3;Page 4,C,1,272,0.77,2009-8R12,Alien/Home: What form of evidence supports argument,8,2009,8R12,2,MC,R061102,NoAsign,NoAsign,Informational,Critique/Evaluate,A,Quotations of famous scientists,(S (NP Quotations/NNS) of/IN (NP famous/JJ scientists/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,24,[5],Page 3;Page 4,C,1,272,0.77,2009-8R12,Alien/Home: What form of evidence supports argument,8,2009,8R12,2,MC,R061102,NoAsign,NoAsign,Informational,Critique/Evaluate,B,Multiple definitions of invasive species,"(S
+  (NP Multiple/JJ definitions/NNS)
+  of/IN
+  (NP invasive/JJ species/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,24,[5],Page 3;Page 4,C,1,272,0.77,2009-8R12,Alien/Home: What form of evidence supports argument,8,2009,8R12,2,MC,R061102,NoAsign,NoAsign,Informational,Critique/Evaluate,C,A series of examples of invasive species,"(S
+  A/DT
+  (NP series/NN)
+  of/IN
+  (NP examples/NNS)
+  of/IN
+  (NP invasive/JJ species/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,24,[5],Page 3;Page 4,C,1,272,0.77,2009-8R12,Alien/Home: What form of evidence supports argument,8,2009,8R12,2,MC,R061102,NoAsign,NoAsign,Informational,Critique/Evaluate,D,Descriptions of different methods of control,"(S
+  (NP Descriptions/NNS)
+  of/IN
+  (NP different/JJ methods/NNS)
+  of/IN
+  (NP control/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,25,[5],Page 3;Page 4,D,1,272,0.84,2009-8R12,Alien/Home: Why farmers imported cane toads,8,2009,8R12,3,MC,R063601,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"25. According to ""Alien Invasion,"" Australian farmers imported cane toads into Australia in order to","(S (NP 25/CD) ./.);(S
+  According/VBG
+  to/TO
+  ``/``
+  (NP Alien/NNP Invasion/NNP)
+  ,/,
+  ''/''
+  (NP Australian/JJ farmers/NNS)
+  imported/VBN
+  (NP cane/NN toads/NNS)
+  into/IN
+  (NP Australia/NNP)
+  in/IN
+  (NP order/NN)
+  to/TO);",,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,25,[5],Page 3;Page 4,D,1,272,0.84,2009-8R12,Alien/Home: Why farmers imported cane toads,8,2009,8R12,3,MC,R063601,NoAsign,NoAsign,Informational,Locate/Recall,A,help save their native beetle populations,"(S
+  (NP help/NN)
+  save/VB
+  their/PRP$
+  (NP native/JJ beetle/NN populations/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,25,[5],Page 3;Page 4,D,1,272,0.84,2009-8R12,Alien/Home: Why farmers imported cane toads,8,2009,8R12,3,MC,R063601,NoAsign,NoAsign,Informational,Locate/Recall,B,eat the sugarcane that was taking over their other crops,"(S
+  eat/VB
+  the/DT
+  (NP sugarcane/NN)
+  that/WDT
+  was/VBD
+  taking/VBG
+  over/RP
+  their/PRP$
+  (NP other/JJ crops/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,25,[5],Page 3;Page 4,D,1,272,0.84,2009-8R12,Alien/Home: Why farmers imported cane toads,8,2009,8R12,3,MC,R063601,NoAsign,NoAsign,Informational,Locate/Recall,C,stop an alien species of beetle imported from Hawaii,"(S
+  stop/VB
+  an/DT
+  (NP alien/JJ species/NNS)
+  of/IN
+  (NP beetle/NN)
+  imported/VBN
+  from/IN
+  (NP Hawaii/NNP));",,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,25,[5],Page 3;Page 4,D,1,272,0.84,2009-8R12,Alien/Home: Why farmers imported cane toads,8,2009,8R12,3,MC,R063601,NoAsign,NoAsign,Informational,Locate/Recall,D,eat beetles that were destroying sugarcane crops,"(S
+  (NP eat/NN beetles/NNS)
+  that/WDT
+  were/VBD
+  destroying/VBG
+  (NP sugarcane/NN crops/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,
+125,26,[6],Page 5;Page 6,A,2,276,0.56,2009-8R12,Alien/Home: Central purpose of second article,8,2009,8R12,5,MC,R061105,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"26. What is the central purpose of ""Home on the Range""?","(S (NP 26/CD) ./.);(S
+  What/WP
+  is/VBZ
+  the/DT
+  (NP central/JJ purpose/NN)
+  of/IN
+  ``/``
+  (NP Home/NNP)
+  on/IN
+  the/DT
+  (NP Range/NNP)
+  ''/''
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,26,[6],Page 5;Page 6,A,2,276,0.56,2009-8R12,Alien/Home: Central purpose of second article,8,2009,8R12,5,MC,R061105,NoAsign,NoAsign,Informational,Integrate/Interpret,A,To inform people about two opposing views,"(S
+  To/TO
+  inform/VB
+  (NP people/NNS)
+  about/IN
+  (NP two/CD)
+  opposing/VBG
+  (NP views/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,26,[6],Page 5;Page 6,A,2,276,0.56,2009-8R12,Alien/Home: Central purpose of second article,8,2009,8R12,5,MC,R061105,NoAsign,NoAsign,Informational,Integrate/Interpret,B,To convince people to take a particular point of view,"(S
+  To/TO
+  convince/VB
+  (NP people/NNS)
+  to/TO
+  take/VB
+  a/DT
+  (NP particular/JJ point/NN)
+  of/IN
+  (NP view/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,26,[6],Page 5;Page 6,A,2,276,0.56,2009-8R12,Alien/Home: Central purpose of second article,8,2009,8R12,5,MC,R061105,NoAsign,NoAsign,Informational,Integrate/Interpret,C,To describe recent scientific discoveries,(S To/TO describe/VB (NP recent/JJ scientific/JJ discoveries/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,26,[6],Page 5;Page 6,A,2,276,0.56,2009-8R12,Alien/Home: Central purpose of second article,8,2009,8R12,5,MC,R061105,NoAsign,NoAsign,Informational,Integrate/Interpret,D,To challenge a common belief,(S To/TO challenge/VB a/DT (NP common/JJ belief/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,27,[5],Page 4,C,1,275,0.72,2009-8R12,Alien/Home: Meaning of cannot tolerate,8,2009,8R12,7,MC,R061107,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"27. In ""Alien Invasion,"" on page 4, an Australian official says, ""We cannot tolerate a situation"" where cane toads are traveling across the Australian continent. This means that the official thinks that Australians cannot","(S (NP 27/CD) ./.);(S
+  In/IN
+  ``/``
+  (NP Alien/NNP Invasion/NNP)
+  ,/,
+  ''/''
+  on/IN
+  (NP page/NN 4/CD)
+  ,/,
+  an/DT
+  (NP Australian/JJ official/NN)
+  says/VBZ
+  ,/,
+  ``/``
+  We/PRP
+  can/MD
+  not/RB
+  tolerate/VB
+  a/DT
+  (NP situation/NN)
+  ''/''
+  where/WRB
+  (NP cane/NN toads/NNS)
+  are/VBP
+  traveling/VBG
+  across/IN
+  the/DT
+  (NP Australian/JJ continent/NN)
+  ./.);(S
+  This/DT
+  means/VBZ
+  that/IN
+  the/DT
+  (NP official/JJ thinks/NNS)
+  that/IN
+  (NP Australians/NNPS)
+  can/MD
+  not/RB);",,,,,,,,,,,,1.0,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,27,[5],Page 4,C,1,275,0.72,2009-8R12,Alien/Home: Meaning of cannot tolerate,8,2009,8R12,7,MC,R061107,NoAsign,NoAsign,Informational,Integrate/Interpret,A,find a solution to the problem posed by cane toads,"(S
+  find/VB
+  a/DT
+  (NP solution/NN)
+  to/TO
+  the/DT
+  (NP problem/NN)
+  posed/VBN
+  by/IN
+  (NP cane/NN toads/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,27,[5],Page 4,C,1,275,0.72,2009-8R12,Alien/Home: Meaning of cannot tolerate,8,2009,8R12,7,MC,R061107,NoAsign,NoAsign,Informational,Integrate/Interpret,B,understand why cane toads are such a problem,"(S
+  (NP understand/JJ)
+  why/WRB
+  (NP cane/NN toads/NNS)
+  are/VBP
+  such/PDT
+  a/DT
+  (NP problem/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,27,[5],Page 4,C,1,275,0.72,2009-8R12,Alien/Home: Meaning of cannot tolerate,8,2009,8R12,7,MC,R061107,NoAsign,NoAsign,Informational,Integrate/Interpret,C,allow the cane toads to continue causing a problem,"(S
+  allow/IN
+  the/DT
+  (NP cane/NN toads/NNS)
+  to/TO
+  continue/VB
+  causing/VBG
+  a/DT
+  (NP problem/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,27,[5],Page 4,C,1,275,0.72,2009-8R12,Alien/Home: Meaning of cannot tolerate,8,2009,8R12,7,MC,R061107,NoAsign,NoAsign,Informational,Integrate/Interpret,D,permit the cane toad problem to become well known,"(S
+  (NP permit/NN)
+  the/DT
+  (NP cane/NN toad/NN problem/NN)
+  to/TO
+  become/VB
+  well/RB
+  (NP known/JJ));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,28,[6],Page 5,D,1,276,0.64,2009-8R12,Alien/Home: Vast parks refers to,8,2009,8R12,8,MC,R061108,NoAsign,NoAsign,Informational,Integrate/Interpret,Stem,"28. On page 5, when ""Home on the Range"" talks about vast parks in the Great Plains, this refers to parks that","(S (NP 28/CD) ./.);(S
+  On/IN
+  (NP page/NN 5/CD)
+  ,/,
+  when/WRB
+  ``/``
+  (NP Home/NNP)
+  on/IN
+  the/DT
+  (NP Range/NNP)
+  ''/''
+  (NP talks/NNS)
+  about/IN
+  (NP vast/JJ parks/NNS)
+  in/IN
+  the/DT
+  (NP Great/NNP Plains/NNPS)
+  ,/,
+  this/DT
+  (NP refers/NNS)
+  to/TO
+  (NP parks/NNS)
+  that/IN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,
+136,28,[6],Page 5,D,1,276,0.64,2009-8R12,Alien/Home: Vast parks refers to,8,2009,8R12,8,MC,R061108,NoAsign,NoAsign,Informational,Integrate/Interpret,A,have mostly flat land,(S have/VB mostly/RB (NP flat/JJ land/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,28,[6],Page 5,D,1,276,0.64,2009-8R12,Alien/Home: Vast parks refers to,8,2009,8R12,8,MC,R061108,NoAsign,NoAsign,Informational,Integrate/Interpret,B,have protected sections,(S have/VB protected/VBN (NP sections/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,28,[6],Page 5,D,1,276,0.64,2009-8R12,Alien/Home: Vast parks refers to,8,2009,8R12,8,MC,R061108,NoAsign,NoAsign,Informational,Integrate/Interpret,C,are owned by private citizens,(S are/VBP owned/VBN by/IN (NP private/JJ citizens/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,28,[6],Page 5,D,1,276,0.64,2009-8R12,Alien/Home: Vast parks refers to,8,2009,8R12,8,MC,R061108,NoAsign,NoAsign,Informational,Integrate/Interpret,D,are extremely large,(S are/VBP extremely/RB (NP large/JJ));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,29,[6],Page 5;Page 6,C,1,277,0.68,2009-8R12,Alien/Home: Why move animals,8,2009,8R12,9,MC,R061109,NoAsign,NoAsign,Informational,Locate/Recall,Stem,"29. According to ""Home on the Range,"" some scientists think that moving African animals to the Great Plains would help improve the area's","(S (NP 29/CD) ./.);(S
+  According/VBG
+  to/TO
+  ``/``
+  (NP Home/NNP)
+  on/IN
+  the/DT
+  (NP Range/NNP)
+  ,/,
+  ''/''
+  some/DT
+  (NP scientists/NNS)
+  think/VBP
+  that/IN
+  moving/VBG
+  (NP African/JJ animals/NNS)
+  to/TO
+  the/DT
+  (NP Great/NNP Plains/NNP)
+  would/MD
+  help/VB
+  improve/VB
+  the/DT
+  (NP area/NN 's/POS));",,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,29,[6],Page 5;Page 6,C,1,277,0.68,2009-8R12,Alien/Home: Why move animals,8,2009,8R12,9,MC,R061109,NoAsign,NoAsign,Informational,Locate/Recall,A,resistance to alien species,(S (NP resistance/NN) to/TO alien/VB (NP species/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,29,[6],Page 5;Page 6,C,1,277,0.68,2009-8R12,Alien/Home: Why move animals,8,2009,8R12,9,MC,R061109,NoAsign,NoAsign,Informational,Locate/Recall,B,economy,(S (NP economy/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,29,[6],Page 5;Page 6,C,1,277,0.68,2009-8R12,Alien/Home: Why move animals,8,2009,8R12,9,MC,R061109,NoAsign,NoAsign,Informational,Locate/Recall,C,biodiversity,(S (NP biodiversity/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,29,[6],Page 5;Page 6,C,1,277,0.68,2009-8R12,Alien/Home: Why move animals,8,2009,8R12,9,MC,R061109,NoAsign,NoAsign,Informational,Locate/Recall,D,research facilities,(S (NP research/NN facilities/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,30,[7],Page 1,B,1,270,0.85,2007-8R8,Why did Ellie do research after 6 pm,8,2007,8R8,3,MC,R053403,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,"30. According to the article, why did Ellie do much of her research after 6 p.m.?","(S (NP 30/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  why/WRB
+  did/VBD
+  (NP Ellie/NNP)
+  do/VB
+  much/RB
+  of/IN
+  her/PRP$
+  (NP research/NN)
+  after/IN
+  (NP 6/CD p.m./NN)
+  ?/.);",,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,30,[7],Page 1,B,1,270,0.85,2007-8R8,Why did Ellie do research after 6 pm,8,2007,8R8,3,MC,R053403,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,She did not want people to learn about her project.,"(S
+  She/PRP
+  did/VBD
+  not/RB
+  want/VB
+  (NP people/NNS)
+  to/TO
+  learn/VB
+  about/IN
+  her/PRP$
+  (NP project/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,30,[7],Page 1,B,1,270,0.85,2007-8R8,Why did Ellie do research after 6 pm,8,2007,8R8,3,MC,R053403,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,She did not want to inconvenience motorists.,"(S
+  She/PRP
+  did/VBD
+  not/RB
+  want/VB
+  to/TO
+  inconvenience/VB
+  (NP motorists/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,30,[7],Page 1,B,1,270,0.85,2007-8R8,Why did Ellie do research after 6 pm,8,2007,8R8,3,MC,R053403,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,She had to focus on a sample of 50 meters.,"(S
+  She/PRP
+  had/VBD
+  to/TO
+  focus/VB
+  on/IN
+  a/DT
+  (NP sample/NN)
+  of/IN
+  (NP 50/CD meters/NNS)
+  ./.);",,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,30,[7],Page 1,B,1,270,0.85,2007-8R8,Why did Ellie do research after 6 pm,8,2007,8R8,3,MC,R053403,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,She saved money because the meters cost less after 6 p.m.,"(S
+  She/PRP
+  saved/VBD
+  (NP money/NN)
+  because/IN
+  the/DT
+  (NP meters/NNS cost/NN)
+  less/JJR
+  after/IN
+  (NP 6/CD p.m/NN)
+  ./.);",,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,31,[7],Page 1,A,2,275,0.52,2007-8R8,What did Ellie learn from doing project,8,2007,8R8,4,MC,R053404,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,"31. According to the article, what did Ellie learn from doing her meter project?","(S (NP 31/CD) ./.);(S
+  According/VBG
+  to/TO
+  the/DT
+  (NP article/NN)
+  ,/,
+  what/WP
+  did/VBD
+  (NP Ellie/NNP learn/NN)
+  from/IN
+  doing/VBG
+  her/PRP$
+  (NP meter/NN project/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,31,[7],Page 1,A,2,275,0.52,2007-8R8,What did Ellie learn from doing project,8,2007,8R8,4,MC,R053404,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,Every fourth meter ran too quickly.,(S Every/DT (NP fourth/JJ meter/NN) ran/VBD too/RB quickly/RB ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,31,[7],Page 1,A,2,275,0.52,2007-8R8,What did Ellie learn from doing project,8,2007,8R8,4,MC,R053404,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Nine out of ten digital meters were accurate.,"(S
+  (NP Nine/CD)
+  out/IN
+  of/IN
+  (NP ten/JJ digital/JJ meters/NNS)
+  were/VBD
+  (NP accurate/JJ)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,
+153,31,[7],Page 1,A,2,275,0.52,2007-8R8,What did Ellie learn from doing project,8,2007,8R8,4,MC,R053404,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,"3,600 parking meters were inaccurate.","(S
+  (NP 3,600/CD)
+  parking/VBG
+  (NP meters/NNS)
+  were/VBD
+  (NP inaccurate/JJ)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,31,[7],Page 1,A,2,275,0.52,2007-8R8,What did Ellie learn from doing project,8,2007,8R8,4,MC,R053404,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Almost none of the 50 meters ran too slowly.,"(S
+  Almost/RB
+  (NP none/NN)
+  of/IN
+  the/DT
+  (NP 50/CD meters/NNS)
+  ran/VBD
+  too/RB
+  slowly/RB
+  ./.);",,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,32,[7],Page 1,C,1,271,0.83,2007-8R8,What happened when Ellie presented report,8,2007,8R8,6,MC,R053406,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,32. What happened when Ellie presented her report at the science fair?,"(S (NP 32/CD) ./.);(S
+  What/WP
+  happened/VBD
+  when/WRB
+  (NP Ellie/NNP)
+  presented/VBD
+  her/PRP$
+  (NP report/NN)
+  at/IN
+  the/DT
+  (NP science/NN fair/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,32,[7],Page 1,C,1,271,0.83,2007-8R8,What happened when Ellie presented report,8,2007,8R8,6,MC,R053406,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,She won first prize for her computer-generated graphics.,"(S
+  She/PRP
+  won/VBD
+  first/RB
+  (NP prize/NN)
+  for/IN
+  her/PRP$
+  (NP computer-generated/JJ graphics/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,32,[7],Page 1,C,1,271,0.83,2007-8R8,What happened when Ellie presented report,8,2007,8R8,6,MC,R053406,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Other students were interested in her findings.,"(S
+  (NP Other/JJ students/NNS)
+  were/VBD
+  (NP interested/JJ)
+  in/IN
+  her/PRP$
+  (NP findings/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,32,[7],Page 1,C,1,271,0.83,2007-8R8,What happened when Ellie presented report,8,2007,8R8,6,MC,R053406,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Parents wanted to tell her their own parking meter stories.,"(S
+  (NP Parents/NNS)
+  wanted/VBD
+  to/TO
+  tell/VB
+  her/PRP$
+  their/PRP$
+  (NP own/JJ parking/NN meter/NN stories/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,32,[7],Page 1,C,1,271,0.83,2007-8R8,What happened when Ellie presented report,8,2007,8R8,6,MC,R053406,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,She decided to pursue meter monitoring as a career.,"(S
+  She/PRP
+  decided/VBD
+  to/TO
+  pursue/VB
+  meter/RB
+  (NP monitoring/NN)
+  as/IN
+  a/DT
+  (NP career/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,33,[7],Page 1,D,1,268,0.9,2007-8R8,What was city of Berkeley's reaction,8,2007,8R8,7,MC,R053407,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,33. What was the city of Berkeley's reaction to Ellie's findings?,"(S (NP 33/CD) ./.);(S
+  What/WP
+  was/VBD
+  the/DT
+  (NP city/NN)
+  of/IN
+  (NP Berkeley/NNP 's/POS reaction/NN)
+  to/TO
+  (NP Ellie/NNP 's/POS findings/NNS)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,33,[7],Page 1,D,1,268,0.9,2007-8R8,What was city of Berkeley's reaction,8,2007,8R8,7,MC,R053407,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,The city hired 50 more meter monitors.,"(S
+  The/DT
+  (NP city/NN)
+  hired/VBD
+  (NP 50/CD)
+  more/JJR
+  (NP meter/NN monitors/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,33,[7],Page 1,D,1,268,0.9,2007-8R8,What was city of Berkeley's reaction,8,2007,8R8,7,MC,R053407,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,The city let the state legislature handle the problem.,"(S
+  The/DT
+  (NP city/NN)
+  let/VBD
+  the/DT
+  (NP state/NN legislature/NN)
+  handle/VBD
+  the/DT
+  (NP problem/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,
+163,33,[7],Page 1,D,1,268,0.9,2007-8R8,What was city of Berkeley's reaction,8,2007,8R8,7,MC,R053407,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,The city gave refunds to people cheated by the meters.,"(S
+  The/DT
+  (NP city/NN)
+  gave/VBD
+  (NP refunds/NNS)
+  to/TO
+  (NP people/NNS)
+  cheated/VBN
+  by/IN
+  the/DT
+  (NP meters/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,33,[7],Page 1,D,1,268,0.9,2007-8R8,What was city of Berkeley's reaction,8,2007,8R8,7,MC,R053407,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,"The city purchased 2,000 new parking meters.","(S
+  The/DT
+  (NP city/NN)
+  purchased/VBD
+  (NP 2,000/CD new/JJ)
+  parking/VBG
+  (NP meters/NNS)
+  ./.);",,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,34,[7],Page 1,A,1,271,0.72,2007-8R8,"The word ""ingenuity"" means",8,2007,8R8,9,MC,R053409,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,"34. In the article, the governor of California speaks of Ellie's ""ingenuity and dedication."" As used in the article, the word ""ingenuity"" means","(S (NP 34/CD) ./.);(S
+  In/IN
+  the/DT
+  (NP article/NN)
+  ,/,
+  the/DT
+  (NP governor/NN)
+  of/IN
+  (NP California/NNP speaks/NNS)
+  of/IN
+  (NP Ellie/NNP 's/POS)
+  ``/``
+  (NP ingenuity/NN)
+  and/CC
+  (NP dedication/NN)
+  ./.
+  ''/'');(S
+  As/IN
+  used/VBN
+  in/IN
+  the/DT
+  (NP article/NN)
+  ,/,
+  the/DT
+  (NP word/NN)
+  ``/``
+  (NP ingenuity/NN)
+  ''/''
+  (NP means/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,34,[7],Page 1,A,1,271,0.72,2007-8R8,"The word ""ingenuity"" means",8,2007,8R8,9,MC,R053409,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,cleverness,(S (NP cleverness/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,34,[7],Page 1,A,1,271,0.72,2007-8R8,"The word ""ingenuity"" means",8,2007,8R8,9,MC,R053409,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,fame,(S (NP fame/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,34,[7],Page 1,A,1,271,0.72,2007-8R8,"The word ""ingenuity"" means",8,2007,8R8,9,MC,R053409,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,stubbornness,(S (NP stubbornness/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,34,[7],Page 1,A,1,271,0.72,2007-8R8,"The word ""ingenuity"" means",8,2007,8R8,9,MC,R053409,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,gratitude,(S (NP gratitude/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,35,[7],Page 1,C,1,273,0.72,2007-8R8,Author includes information to,8,2007,8R8,11,MC,R053411,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,"35. ""We don't get reports this thorough when we pay consultants hundreds of thousands of dollars.""
+
+The author included this information to","(S (NP 35/CD) ./.);(S
+  ``/``
+  We/PRP
+  do/VBP
+  n't/RB
+  get/VB
+  (NP reports/NNS)
+  this/DT
+  (NP thorough/JJ)
+  when/WRB
+  we/PRP
+  pay/VBP
+  (NP consultants/NNS hundreds/NNS)
+  of/IN
+  (NP thousands/NNS)
+  of/IN
+  (NP dollars/NNS)
+  ./.
+  ''/'');(S
+  The/DT
+  (NP author/NN)
+  included/VBD
+  this/DT
+  (NP information/NN)
+  to/TO);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,35,[7],Page 1,C,1,273,0.72,2007-8R8,Author includes information to,8,2007,8R8,11,MC,R053411,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,show how the city saves money,(S show/VB how/WRB the/DT (NP city/NN) saves/VBZ (NP money/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,35,[7],Page 1,C,1,273,0.72,2007-8R8,Author includes information to,8,2007,8R8,11,MC,R053411,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,describe the city budget,(S describe/VB the/DT (NP city/NN budget/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,35,[7],Page 1,C,1,273,0.72,2007-8R8,Author includes information to,8,2007,8R8,11,MC,R053411,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,emphasize Ellie's achievement,(S emphasize/VB (NP Ellie/NNP 's/POS achievement/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,35,[7],Page 1,C,1,273,0.72,2007-8R8,Author includes information to,8,2007,8R8,11,MC,R053411,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,criticize the city of Berkeley,(S criticize/VB the/DT (NP city/NN) of/IN (NP Berkeley/NNP));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,36,[8],Page 1,B,1,267,0.92,2005-8R7,Ellis Island: Passage is about -- struggles    ,8,2005,8R7,1,MC,R012701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,Stem,36. This passage is mostly about the,(S (NP 36/CD) ./.);(S This/DT (NP passage/NN) is/VBZ mostly/RB about/IN the/DT);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,36,[8],Page 1,B,1,267,0.92,2005-8R7,Ellis Island: Passage is about -- struggles    ,8,2005,8R7,1,MC,R012701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,A,hardships of ocean travel in the nineteenth century,"(S
+  (NP hardships/NNS)
+  of/IN
+  (NP ocean/JJ travel/NN)
+  in/IN
+  the/DT
+  (NP nineteenth/JJ century/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,36,[8],Page 1,B,1,267,0.92,2005-8R7,Ellis Island: Passage is about -- struggles    ,8,2005,8R7,1,MC,R012701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,B,struggles of the early immigrants entering America,"(S
+  (NP struggles/NNS)
+  of/IN
+  the/DT
+  (NP early/JJ immigrants/NNS)
+  entering/VBG
+  (NP America/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,36,[8],Page 1,B,1,267,0.92,2005-8R7,Ellis Island: Passage is about -- struggles    ,8,2005,8R7,1,MC,R012701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,C,many opportunities to make money in America,"(S
+  (NP many/JJ opportunities/NNS)
+  to/TO
+  make/VB
+  (NP money/NN)
+  in/IN
+  (NP America/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,36,[8],Page 1,B,1,267,0.92,2005-8R7,Ellis Island: Passage is about -- struggles    ,8,2005,8R7,1,MC,R012701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,D,effect of immigration on European countries,"(S
+  (NP effect/NN)
+  of/IN
+  (NP immigration/NN)
+  on/IN
+  (NP European/JJ countries/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,37,[8],Page 1,C,1,268,0.89,2005-8R7,Ellis Island: Most worry about med exams,8,2005,8R7,3,MC,R012707,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,37. What most worried the immigrants about the medical examinations?,"(S (NP 37/CD) ./.);(S
+  What/WP
+  most/JJS
+  worried/VBD
+  the/DT
+  (NP immigrants/NNS)
+  about/IN
+  the/DT
+  (NP medical/JJ examinations/NNS)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,37,[8],Page 1,C,1,268,0.89,2005-8R7,Ellis Island: Most worry about med exams,8,2005,8R7,3,MC,R012707,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,They did not want to be sent to the hospital.,"(S
+  They/PRP
+  did/VBD
+  not/RB
+  want/VB
+  to/TO
+  be/VB
+  sent/VBN
+  to/TO
+  the/DT
+  (NP hospital/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,37,[8],Page 1,C,1,268,0.89,2005-8R7,Ellis Island: Most worry about med exams,8,2005,8R7,3,MC,R012707,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,They could not afford to pay the doctors.,"(S
+  They/PRP
+  could/MD
+  not/RB
+  afford/VB
+  to/TO
+  pay/VB
+  the/DT
+  (NP doctors/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,37,[8],Page 1,C,1,268,0.89,2005-8R7,Ellis Island: Most worry about med exams,8,2005,8R7,3,MC,R012707,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,They did not want to be deported.,(S They/PRP did/VBD not/RB want/VB to/TO be/VB deported/VBN ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,37,[8],Page 1,C,1,268,0.89,2005-8R7,Ellis Island: Most worry about med exams,8,2005,8R7,3,MC,R012707,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,They were too seasick to stand in line.,"(S
+  They/PRP
+  were/VBD
+  too/RB
+  (NP seasick/JJ)
+  to/TO
+  stand/VB
+  in/IN
+  (NP line/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,38,[8],Page 1,C,1,273,0.76,2005-8R7,Ellis Island: Disliked trip -- condition,8,2005,8R7,4,MC,R012704,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,38. What did the immigrants dislike most about their trip to America?,"(S (NP 38/CD) ./.);(S
+  What/WP
+  did/VBD
+  the/DT
+  (NP immigrants/NNS)
+  dislike/IN
+  most/JJS
+  about/IN
+  their/PRP$
+  (NP trip/NN)
+  to/TO
+  (NP America/NNP)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,38,[8],Page 1,C,1,273,0.76,2005-8R7,Ellis Island: Disliked trip -- condition,8,2005,8R7,4,MC,R012704,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,Seeing Ellis Island for the first time,"(S
+  Seeing/VBG
+  (NP Ellis/NNP Island/NNP)
+  for/IN
+  the/DT
+  (NP first/JJ time/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,38,[8],Page 1,C,1,273,0.76,2005-8R7,Ellis Island: Disliked trip -- condition,8,2005,8R7,4,MC,R012704,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Leaving their native countries,(S Leaving/VBG their/PRP$ (NP native/JJ countries/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,38,[8],Page 1,C,1,273,0.76,2005-8R7,Ellis Island: Disliked trip -- condition,8,2005,8R7,4,MC,R012704,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Living conditions aboard the boat,(S Living/VBG (NP conditions/NNS) aboard/IN the/DT (NP boat/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,38,[8],Page 1,C,1,273,0.76,2005-8R7,Ellis Island: Disliked trip -- condition,8,2005,8R7,4,MC,R012704,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Letting the Americans off the boat first,"(S
+  Letting/VBG
+  the/DT
+  (NP Americans/NNPS)
+  off/RP
+  the/DT
+  (NP boat/NN)
+  first/RB);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,39,[8],Page 1,D,1,273,0.7,2005-8R7,"Ellis Island: ""Contend with...guards"" -- obstacles      ",8,2005,8R7,7,MC,R012711,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,"39. The statement that immigrants had to ""contend with border guards, thieves, and crooked immigration agents"" means that the immigrants","(S (NP 39/CD) ./.);(S
+  The/DT
+  (NP statement/NN)
+  that/IN
+  (NP immigrants/NNS)
+  had/VBD
+  to/TO
+  ``/``
+  contend/VB
+  with/IN
+  (NP border/NN guards/NNS)
+  ,/,
+  (NP thieves/NNS)
+  ,/,
+  and/CC
+  (NP crooked/JJ immigration/NN agents/NNS)
+  ''/''
+  means/VBZ
+  that/IN
+  the/DT
+  (NP immigrants/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,39,[8],Page 1,D,1,273,0.7,2005-8R7,"Ellis Island: ""Contend with...guards"" -- obstacles      ",8,2005,8R7,7,MC,R012711,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,were being introduced to America's legal system,"(S
+  were/VBD
+  being/VBG
+  introduced/VBN
+  to/TO
+  (NP America/NNP 's/POS legal/JJ system/NN));",,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,39,[8],Page 1,D,1,273,0.7,2005-8R7,"Ellis Island: ""Contend with...guards"" -- obstacles      ",8,2005,8R7,7,MC,R012711,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,learned that America had many people,"(S
+  learned/VBD
+  that/IN
+  (NP America/NNP)
+  had/VBD
+  (NP many/JJ people/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,39,[8],Page 1,D,1,273,0.7,2005-8R7,"Ellis Island: ""Contend with...guards"" -- obstacles      ",8,2005,8R7,7,MC,R012711,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,learned to adapt to America's freedoms,"(S
+  learned/VBN
+  to/TO
+  adapt/VB
+  to/TO
+  (NP America/NNP 's/POS freedoms/NNS));",,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,39,[8],Page 1,D,1,273,0.7,2005-8R7,"Ellis Island: ""Contend with...guards"" -- obstacles      ",8,2005,8R7,7,MC,R012711,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,faced obstacles that might discourage some people,"(S
+  faced/VBN
+  (NP obstacles/NNS)
+  that/WDT
+  might/MD
+  discourage/VB
+  some/DT
+  (NP people/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,40,[8],Page 1,A,1,269,0.83,2005-8R7,"Ellis Island: Called ""doorway to America""           ",8,2005,8R7,9,MC,R012709,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,"40. Ellis Island was called ""the doorway to America"" because it","(S (NP 40/CD) ./.);(S
+  (NP Ellis/NNP Island/NNP)
+  was/VBD
+  called/VBN
+  ``/``
+  the/DT
+  (NP doorway/NN)
+  to/TO
+  (NP America/NNP)
+  ''/''
+  because/IN
+  it/PRP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,40,[8],Page 1,A,1,269,0.83,2005-8R7,"Ellis Island: Called ""doorway to America""           ",8,2005,8R7,9,MC,R012709,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,was the place most immigrants had to pass through before entering the United States,"(S
+  was/VBD
+  the/DT
+  (NP place/NN)
+  most/JJS
+  (NP immigrants/NNS)
+  had/VBD
+  to/TO
+  pass/VB
+  through/IN
+  before/RB
+  entering/VBG
+  the/DT
+  (NP United/NNP States/NNPS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+197,40,[8],Page 1,A,1,269,0.83,2005-8R7,"Ellis Island: Called ""doorway to America""           ",8,2005,8R7,9,MC,R012709,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,had a large and famous entranceway that immigrants walked through,"(S
+  had/VBD
+  a/DT
+  (NP large/JJ)
+  and/CC
+  (NP famous/JJ entranceway/NN)
+  that/IN
+  (NP immigrants/NNS)
+  walked/VBD
+  through/IN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,40,[8],Page 1,A,1,269,0.83,2005-8R7,"Ellis Island: Called ""doorway to America""           ",8,2005,8R7,9,MC,R012709,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,was the only port in the United States where foreign ships could dock safely,"(S
+  was/VBD
+  the/DT
+  (NP only/JJ port/NN)
+  in/IN
+  the/DT
+  (NP United/NNP States/NNPS)
+  where/WRB
+  (NP foreign/JJ ships/NNS)
+  could/MD
+  dock/VB
+  safely/RB);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+199,40,[8],Page 1,A,1,269,0.83,2005-8R7,"Ellis Island: Called ""doorway to America""           ",8,2005,8R7,9,MC,R012709,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,was actually a large ship that carried the immigrants to the United States,"(S
+  was/VBD
+  actually/RB
+  a/DT
+  (NP large/JJ ship/NN)
+  that/WDT
+  carried/VBD
+  the/DT
+  (NP immigrants/NNS)
+  to/TO
+  the/DT
+  (NP United/NNP States/NNPS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+200,41,[8],Page 1,B,1,273,0.67,2005-8R7,Ellis Island: Immigrants reduced -- take jobs,8,2005,8R7,12,MC,R012712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,41. The United States eventually reduced the number of immigrants allowed to enter the country because,"(S (NP 41/CD) ./.);(S
+  The/DT
+  (NP United/NNP States/NNPS)
+  eventually/RB
+  reduced/VBD
+  the/DT
+  (NP number/NN)
+  of/IN
+  (NP immigrants/NNS)
+  allowed/VBN
+  to/TO
+  enter/VB
+  the/DT
+  (NP country/NN)
+  because/IN);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+201,41,[8],Page 1,B,1,273,0.67,2005-8R7,Ellis Island: Immigrants reduced -- take jobs,8,2005,8R7,12,MC,R012712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,the United States already had too many people,"(S
+  the/DT
+  (NP United/NNP States/NNPS)
+  already/RB
+  had/VBD
+  too/RB
+  (NP many/JJ people/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+202,41,[8],Page 1,B,1,273,0.67,2005-8R7,Ellis Island: Immigrants reduced -- take jobs,8,2005,8R7,12,MC,R012712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,the immigrants were taking jobs away from American workers,"(S
+  the/DT
+  (NP immigrants/NNS)
+  were/VBD
+  taking/VBG
+  (NP jobs/NNS)
+  away/RB
+  from/IN
+  (NP American/JJ workers/NNS));",,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,41,[8],Page 1,B,1,273,0.67,2005-8R7,Ellis Island: Immigrants reduced -- take jobs,8,2005,8R7,12,MC,R012712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,the immigrants had too many hardships to face in America,"(S
+  the/DT
+  (NP immigrants/NNS)
+  had/VBD
+  too/RB
+  (NP many/JJ hardships/NNS)
+  to/TO
+  face/VB
+  in/IN
+  (NP America/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,41,[8],Page 1,B,1,273,0.67,2005-8R7,Ellis Island: Immigrants reduced -- take jobs,8,2005,8R7,12,MC,R012712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,the country that the immigrants came from was angry about them leaving,"(S
+  the/DT
+  (NP country/NN)
+  that/IN
+  the/DT
+  (NP immigrants/NNS)
+  came/VBD
+  from/IN
+  was/VBD
+  (NP angry/JJ)
+  about/IN
+  them/PRP
+  leaving/VBG);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,42,[9],Page 1,B,1,270,0.82,2002-8R8,Sharebots: Purpose of article--work,8,2002,8R8,1,MC,R017201,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,Stem,42. The main purpose of the article is to describe how robots can be programmed to,"(S (NP 42/CD) ./.);(S
+  The/DT
+  (NP main/JJ purpose/NN)
+  of/IN
+  the/DT
+  (NP article/NN)
+  is/VBZ
+  to/TO
+  describe/VB
+  how/WRB
+  (NP robots/NNS)
+  can/MD
+  be/VB
+  programmed/VBN
+  to/TO);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,42,[9],Page 1,B,1,270,0.82,2002-8R8,Sharebots: Purpose of article--work,8,2002,8R8,1,MC,R017201,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,A,locate metal pucks,(S (NP locate/NN metal/NN pucks/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,42,[9],Page 1,B,1,270,0.82,2002-8R8,Sharebots: Purpose of article--work,8,2002,8R8,1,MC,R017201,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,B,work with each other,(S (NP work/NN) with/IN each/DT (NP other/JJ));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,42,[9],Page 1,B,1,270,0.82,2002-8R8,Sharebots: Purpose of article--work,8,2002,8R8,1,MC,R017201,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,C,recharge their own batteries,(S recharge/VB their/PRP$ (NP own/JJ batteries/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,42,[9],Page 1,B,1,270,0.82,2002-8R8,Sharebots: Purpose of article--work,8,2002,8R8,1,MC,R017201,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,D,perform five basic behaviors,(S (NP perform/NN five/CD basic/JJ behaviors/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,43,[9],Page 1,C,1,274,0.72,2002-8R8,Sharebots: Which jobs perform--pick up,8,2002,8R8,3,MC,R017203,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,"43. Based on how the robots in the article are equipped and the behaviors they are programmed to perform, which of the following jobs could they most likely do in someone's home?","(S (NP 43/CD) ./.);(S
+  Based/VBN
+  on/IN
+  how/WRB
+  the/DT
+  (NP robots/NNS)
+  in/IN
+  the/DT
+  (NP article/NN)
+  are/VBP
+  equipped/VBN
+  and/CC
+  the/DT
+  (NP behaviors/NNS)
+  they/PRP
+  are/VBP
+  programmed/VBN
+  to/TO
+  perform/VB
+  ,/,
+  which/WDT
+  of/IN
+  the/DT
+  following/VBG
+  (NP jobs/NNS)
+  could/MD
+  they/PRP
+  most/RBS
+  (NP likely/JJ)
+  do/VBP
+  in/IN
+  (NP someone/NN 's/POS home/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,43,[9],Page 1,C,1,274,0.72,2002-8R8,Sharebots: Which jobs perform--pick up,8,2002,8R8,3,MC,R017203,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,Open cans of food,(S (NP Open/JJ cans/NNS) of/IN (NP food/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,43,[9],Page 1,C,1,274,0.72,2002-8R8,Sharebots: Which jobs perform--pick up,8,2002,8R8,3,MC,R017203,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Open doors and cabinets,(S (NP Open/JJ doors/NNS) and/CC (NP cabinets/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,43,[9],Page 1,C,1,274,0.72,2002-8R8,Sharebots: Which jobs perform--pick up,8,2002,8R8,3,MC,R017203,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Pick up shoes on the floor,(S (NP Pick/NNP) up/RP (NP shoes/NNS) on/IN the/DT (NP floor/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,43,[9],Page 1,C,1,274,0.72,2002-8R8,Sharebots: Which jobs perform--pick up,8,2002,8R8,3,MC,R017203,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Move furniture around a room,(S (NP Move/NNP furniture/NN) around/IN a/DT (NP room/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,44,[9],Page 1,B,2,274,0.57,2002-8R8,Sharebots: Meaning of altruistic--assist,8,2002,8R8,6,MC,R017206,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,"44. The following sentence appears in the next-to-last paragraph of the article:
+
+""With this simple social contract, the robots needed only 15 minutes of practice to become altruistic.""
+
+Based on how the word is used in the article, which of the following best describes what it means to be ""altruistic""?","(S (NP 44/CD) ./.);(S
+  The/DT
+  (NP following/JJ sentence/NN)
+  appears/VBZ
+  in/IN
+  the/DT
+  (NP next-to-last/JJ paragraph/NN)
+  of/IN
+  the/DT
+  (NP article/NN)
+  :/:
+  ''/''
+  With/IN
+  this/DT
+  (NP simple/JJ social/JJ contract/NN)
+  ,/,
+  the/DT
+  (NP robots/NNS)
+  needed/VBD
+  only/RB
+  (NP 15/CD minutes/NNS)
+  of/IN
+  (NP practice/NN)
+  to/TO
+  become/VB
+  (NP altruistic/JJ)
+  ./.
+  ''/'');(S
+  Based/VBN
+  on/IN
+  how/WRB
+  the/DT
+  (NP word/NN)
+  is/VBZ
+  used/VBN
+  in/IN
+  the/DT
+  (NP article/NN)
+  ,/,
+  which/WDT
+  of/IN
+  the/DT
+  (NP following/JJ)
+  best/JJS
+  describes/VBZ
+  what/WP
+  it/PRP
+  means/VBZ
+  to/TO
+  be/VB
+  ``/``
+  (NP altruistic/JJ)
+  ''/''
+  ?/.);",,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,44,[9],Page 1,B,2,274,0.57,2002-8R8,Sharebots: Meaning of altruistic--assist,8,2002,8R8,6,MC,R017206,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,To engage in an experiment,(S To/TO engage/VB in/IN an/DT (NP experiment/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,44,[9],Page 1,B,2,274,0.57,2002-8R8,Sharebots: Meaning of altruistic--assist,8,2002,8R8,6,MC,R017206,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,To provide assistance to others,(S To/TO provide/VB (NP assistance/NN) to/TO (NP others/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,44,[9],Page 1,B,2,274,0.57,2002-8R8,Sharebots: Meaning of altruistic--assist,8,2002,8R8,6,MC,R017206,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,To work without taking frequent breaks,(S To/TO work/VB without/IN taking/VBG (NP frequent/JJ breaks/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,44,[9],Page 1,B,2,274,0.57,2002-8R8,Sharebots: Meaning of altruistic--assist,8,2002,8R8,6,MC,R017206,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,To compete with others for the highest score,"(S
+  To/TO
+  compete/VB
+  with/IN
+  (NP others/NNS)
+  for/IN
+  the/DT
+  highest/JJS
+  (NP score/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,45,[9],Page 1,A,1,277,0.61,2002-8R8,Sharebots: What change--more efficient,8,2002,8R8,9,MC,R017209,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,45. What change occurred when the robots were taught to share?,"(S (NP 45/CD) ./.);(S
+  What/WP
+  (NP change/NN)
+  occurred/VBD
+  when/WRB
+  the/DT
+  (NP robots/NNS)
+  were/VBD
+  taught/VBN
+  to/TO
+  (NP share/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,45,[9],Page 1,A,1,277,0.61,2002-8R8,Sharebots: What change--more efficient,8,2002,8R8,9,MC,R017209,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,They did their jobs more efficiently.,"(S
+  They/PRP
+  did/VBD
+  their/PRP$
+  (NP jobs/NNS)
+  more/RBR
+  efficiently/RB
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,45,[9],Page 1,A,1,277,0.61,2002-8R8,Sharebots: What change--more efficient,8,2002,8R8,9,MC,R017209,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,They could accomplish small goals.,(S They/PRP could/MD accomplish/VB (NP small/JJ goals/NNS) ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,45,[9],Page 1,A,1,277,0.61,2002-8R8,Sharebots: What change--more efficient,8,2002,8R8,9,MC,R017209,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,They performed more specialized tasks.,(S They/PRP performed/VBD more/RBR (NP specialized/JJ tasks/NNS) ./.);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,45,[9],Page 1,A,1,277,0.61,2002-8R8,Sharebots: What change--more efficient,8,2002,8R8,9,MC,R017209,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,They began following each other in a line.,"(S
+  They/PRP
+  began/VBD
+  following/VBG
+  each/DT
+  (NP other/JJ)
+  in/IN
+  a/DT
+  (NP line/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,46,[10],Page 1,A,1,270,0.7,1994-8R8,Lost People: What Idea Supported By Photos,8,1994,8R8,5,MC,R016005,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,46. Which idea from the text about the Anasazi do the photographs support?,"(S (NP 46/CD) ./.);(S
+  Which/WDT
+  (NP idea/NN)
+  from/IN
+  the/DT
+  (NP text/NN)
+  about/IN
+  the/DT
+  (NP Anasazi/NNP)
+  do/VBP
+  the/DT
+  (NP photographs/NN support/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,46,[10],Page 1,A,1,270,0.7,1994-8R8,Lost People: What Idea Supported By Photos,8,1994,8R8,5,MC,R016005,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,They were able to create many useful objects.,"(S
+  They/PRP
+  were/VBD
+  (NP able/JJ)
+  to/TO
+  create/VB
+  (NP many/JJ useful/JJ objects/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,46,[10],Page 1,A,1,270,0.7,1994-8R8,Lost People: What Idea Supported By Photos,8,1994,8R8,5,MC,R016005,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Farming was probably their major source of food.,"(S
+  Farming/VBG
+  was/VBD
+  probably/RB
+  their/PRP$
+  (NP major/JJ source/NN)
+  of/IN
+  (NP food/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+228,46,[10],Page 1,A,1,270,0.7,1994-8R8,Lost People: What Idea Supported By Photos,8,1994,8R8,5,MC,R016005,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Wood seems to have been their primary building material.,"(S
+  (NP Wood/NN)
+  seems/VBZ
+  to/TO
+  have/VB
+  been/VBN
+  their/PRP$
+  (NP primary/JJ building/NN material/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,46,[10],Page 1,A,1,270,0.7,1994-8R8,Lost People: What Idea Supported By Photos,8,1994,8R8,5,MC,R016005,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Their life became much easier when they moved into the cliff dwellings.,"(S
+  Their/PRP$
+  (NP life/NN)
+  became/VBD
+  much/RB
+  easier/JJR
+  when/WRB
+  they/PRP
+  moved/VBD
+  into/IN
+  the/DT
+  (NP cliff/JJ dwellings/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,47,[10],Page 1,D,2,273,0.59,1994-8R8,Lost People: Anasazi's Early Life - Peaceful,8,1994,8R8,7,MC,R016007,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,47. The Anasazi's life before 1200 A.D. was portrayed by the author as being,"(S (NP 47/CD) ./.);(S
+  The/DT
+  (NP Anasazi/NNP 's/POS life/NN)
+  before/IN
+  (NP 1200/CD A.D./NNP)
+  was/VBD
+  portrayed/VBN
+  by/IN
+  the/DT
+  (NP author/NN)
+  as/IN
+  being/VBG);",1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,47,[10],Page 1,D,2,273,0.59,1994-8R8,Lost People: Anasazi's Early Life - Peaceful,8,1994,8R8,7,MC,R016007,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,dangerous and warlike,(S (NP dangerous/JJ) and/CC (NP warlike/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+232,47,[10],Page 1,D,2,273,0.59,1994-8R8,Lost People: Anasazi's Early Life - Peaceful,8,1994,8R8,7,MC,R016007,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,busy and exciting,(S (NP busy/JJ) and/CC exciting/VBG);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,47,[10],Page 1,D,2,273,0.59,1994-8R8,Lost People: Anasazi's Early Life - Peaceful,8,1994,8R8,7,MC,R016007,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,difficult and dreary,(S (NP difficult/JJ) and/CC (NP dreary/JJ));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,47,[10],Page 1,D,2,273,0.59,1994-8R8,Lost People: Anasazi's Early Life - Peaceful,8,1994,8R8,7,MC,R016007,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,productive and peaceful,(S (NP productive/JJ) and/CC (NP peaceful/JJ));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,48,[10],Page 1,C,1,269,0.84,1994-8R8,Lost People: Title Page Impression- Mystery,8,1994,8R8,8,MC,R016008,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,48. The title and photograph on the first page of the article are probably meant to make the disappearance of the Anasazi seem to be,"(S (NP 48/CD) ./.);(S
+  The/DT
+  (NP title/NN)
+  and/CC
+  (NP photograph/NN)
+  on/IN
+  the/DT
+  (NP first/JJ page/NN)
+  of/IN
+  the/DT
+  (NP article/NN)
+  are/VBP
+  probably/RB
+  (NP meant/JJ)
+  to/TO
+  make/VB
+  the/DT
+  (NP disappearance/NN)
+  of/IN
+  the/DT
+  (NP Anasazi/NNP)
+  seem/VBP
+  to/TO
+  be/VB);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,48,[10],Page 1,C,1,269,0.84,1994-8R8,Lost People: Title Page Impression- Mystery,8,1994,8R8,8,MC,R016008,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,a personal tragedy,(S a/DT (NP personal/JJ tragedy/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,48,[10],Page 1,C,1,269,0.84,1994-8R8,Lost People: Title Page Impression- Mystery,8,1994,8R8,8,MC,R016008,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,a terrible mistake,(S a/DT (NP terrible/JJ mistake/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,
+238,48,[10],Page 1,C,1,269,0.84,1994-8R8,Lost People: Title Page Impression- Mystery,8,1994,8R8,8,MC,R016008,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,an unsolved mystery,(S an/DT (NP unsolved/JJ mystery/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,
+239,48,[10],Page 1,C,1,269,0.84,1994-8R8,Lost People: Title Page Impression- Mystery,8,1994,8R8,8,MC,R016008,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,an important political event,(S an/DT (NP important/JJ political/JJ event/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,49,[11],Page 1,B,1,265,0.72,1992-8R8,Dorothea: Able to Get Her Point Across - Many Views,8,1992,8R8,2,MC,R012902,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,49. What made Dorothea Dix so successful in getting her point across?,"(S (NP 49/CD) ./.);(S
+  What/WP
+  made/VBD
+  (NP Dorothea/NNP Dix/NNP)
+  so/RB
+  (NP successful/JJ)
+  in/IN
+  getting/VBG
+  her/PRP$
+  (NP point/NN)
+  across/IN
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,49,[11],Page 1,B,1,265,0.72,1992-8R8,Dorothea: Able to Get Her Point Across - Many Views,8,1992,8R8,2,MC,R012902,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,She had taken speech lessons as a child.,"(S
+  She/PRP
+  had/VBD
+  taken/VBN
+  (NP speech/JJ lessons/NNS)
+  as/IN
+  a/DT
+  (NP child/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,49,[11],Page 1,B,1,265,0.72,1992-8R8,Dorothea: Able to Get Her Point Across - Many Views,8,1992,8R8,2,MC,R012902,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,She examined issues from many viewpoints.,"(S
+  She/PRP
+  examined/VBD
+  (NP issues/NNS)
+  from/IN
+  (NP many/JJ viewpoints/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,49,[11],Page 1,B,1,265,0.72,1992-8R8,Dorothea: Able to Get Her Point Across - Many Views,8,1992,8R8,2,MC,R012902,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,She talked loudly to get everyone's attention.,"(S
+  She/PRP
+  talked/VBD
+  loudly/RB
+  to/TO
+  get/VB
+  (NP everyone/NN 's/POS attention/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+244,49,[11],Page 1,B,1,265,0.72,1992-8R8,Dorothea: Able to Get Her Point Across - Many Views,8,1992,8R8,2,MC,R012902,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,She did not care what people thought of her.,"(S
+  She/PRP
+  did/VBD
+  not/RB
+  care/VB
+  what/WP
+  (NP people/NNS thought/NN)
+  of/IN
+  her/PRP
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+245,50,[11],Page 1,D,2,272,0.46,1992-8R8,Dorothea: Prepared for Visiting a State - Studied,8,1992,8R8,4,MC,R012904,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,50. How did Dorothea Dix prepare herself for visiting a state?,"(S (NP 50/CD) ./.);(S
+  How/WRB
+  did/VBD
+  (NP Dorothea/NNP Dix/NNP)
+  prepare/VB
+  herself/PRP
+  for/IN
+  visiting/VBG
+  a/DT
+  (NP state/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+246,50,[11],Page 1,D,2,272,0.46,1992-8R8,Dorothea: Prepared for Visiting a State - Studied,8,1992,8R8,4,MC,R012904,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,She examined the amount of charitable contributions made by the people in the state.,"(S
+  She/PRP
+  examined/VBD
+  the/DT
+  (NP amount/NN)
+  of/IN
+  (NP charitable/JJ contributions/NNS)
+  made/VBN
+  by/IN
+  the/DT
+  (NP people/NNS)
+  in/IN
+  the/DT
+  (NP state/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,50,[11],Page 1,D,2,272,0.46,1992-8R8,Dorothea: Prepared for Visiting a State - Studied,8,1992,8R8,4,MC,R012904,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,She counted the number of people with mental illness in the state's prisons.,"(S
+  She/PRP
+  counted/VBD
+  the/DT
+  (NP number/NN)
+  of/IN
+  (NP people/NNS)
+  with/IN
+  (NP mental/JJ illness/NN)
+  in/IN
+  the/DT
+  (NP state/NN 's/POS prisons/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,50,[11],Page 1,D,2,272,0.46,1992-8R8,Dorothea: Prepared for Visiting a State - Studied,8,1992,8R8,4,MC,R012904,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,She gathered information about taxes and humanitarianism in the state.,"(S
+  She/PRP
+  gathered/VBD
+  (NP information/NN)
+  about/IN
+  (NP taxes/NNS)
+  and/CC
+  (NP humanitarianism/NN)
+  in/IN
+  the/DT
+  (NP state/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+249,50,[11],Page 1,D,2,272,0.46,1992-8R8,Dorothea: Prepared for Visiting a State - Studied,8,1992,8R8,4,MC,R012904,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,She studied laws and proposals for change in the state.,"(S
+  She/PRP
+  studied/VBD
+  (NP laws/NNS)
+  and/CC
+  (NP proposals/NNS)
+  for/IN
+  (NP change/NN)
+  in/IN
+  the/DT
+  (NP state/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+250,51,[11],Page 1,D,1,275,0.63,1992-8R8,Dorothea: Was One of Dorothea's Goals - Enact Laws,8,1992,8R8,6,MC,R012906,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,51. What was one of Dorothea Dix's goals that was mentioned in the passage?,"(S (NP 51/CD) ./.);(S
+  What/WP
+  was/VBD
+  (NP one/CD)
+  of/IN
+  (NP Dorothea/NNP Dix/NNP 's/POS goals/NNS)
+  that/WDT
+  was/VBD
+  mentioned/VBN
+  in/IN
+  the/DT
+  (NP passage/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,51,[11],Page 1,D,1,275,0.63,1992-8R8,Dorothea: Was One of Dorothea's Goals - Enact Laws,8,1992,8R8,6,MC,R012906,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,Establishing a trust fund for teachers of people with mental illness,"(S
+  Establishing/VBG
+  a/DT
+  (NP trust/NN fund/NN)
+  for/IN
+  (NP teachers/NNS)
+  of/IN
+  (NP people/NNS)
+  with/IN
+  (NP mental/JJ illness/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,
+252,51,[11],Page 1,D,1,275,0.63,1992-8R8,Dorothea: Was One of Dorothea's Goals - Enact Laws,8,1992,8R8,6,MC,R012906,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Finding a cure for mental illness,(S Finding/VBG a/DT (NP cure/NN) for/IN (NP mental/JJ illness/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,51,[11],Page 1,D,1,275,0.63,1992-8R8,Dorothea: Was One of Dorothea's Goals - Enact Laws,8,1992,8R8,6,MC,R012906,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Establishing asylums in Russia and Turkey,"(S
+  Establishing/VBG
+  (NP asylums/NNS)
+  in/IN
+  (NP Russia/NNP)
+  and/CC
+  (NP Turkey/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,51,[11],Page 1,D,1,275,0.63,1992-8R8,Dorothea: Was One of Dorothea's Goals - Enact Laws,8,1992,8R8,6,MC,R012906,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Getting national laws enacted to improve living conditions in asylums,"(S
+  Getting/VBG
+  (NP national/JJ laws/NNS)
+  enacted/VBN
+  to/TO
+  improve/VB
+  (NP living/NN conditions/NNS)
+  in/IN
+  (NP asylums/NNS));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,52,[11],Page 1,B,1,270,0.74,1992-8R8,Dorothea: Memorial Report Caused Uproar - Topic,8,1992,8R8,8,MC,R012908,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,52. Why did Dorothea Dix's first memorial (report) cause such an uproar?,"(S (NP 52/CD) ./.);(S
+  Why/WRB
+  did/VBD
+  (NP Dorothea/NNP Dix/NNP 's/POS first/JJ memorial/NN)
+  (/(
+  (NP report/NN)
+  )/)
+  (NP cause/NN such/JJ)
+  an/DT
+  (NP uproar/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,52,[11],Page 1,B,1,270,0.74,1992-8R8,Dorothea: Memorial Report Caused Uproar - Topic,8,1992,8R8,8,MC,R012908,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,It was too long and poorly written.,"(S
+  It/PRP
+  was/VBD
+  too/RB
+  (NP long/JJ)
+  and/CC
+  poorly/RB
+  written/VBN
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,52,[11],Page 1,B,1,270,0.74,1992-8R8,Dorothea: Memorial Report Caused Uproar - Topic,8,1992,8R8,8,MC,R012908,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,It concerned a topic no one wanted to discuss in public.,"(S
+  It/PRP
+  concerned/VBD
+  a/DT
+  (NP topic/NN)
+  no/DT
+  (NP one/NN)
+  wanted/VBD
+  to/TO
+  discuss/VB
+  in/IN
+  (NP public/JJ)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,52,[11],Page 1,B,1,270,0.74,1992-8R8,Dorothea: Memorial Report Caused Uproar - Topic,8,1992,8R8,8,MC,R012908,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,It contained personal information about Dix's health.,"(S
+  It/PRP
+  contained/VBD
+  (NP personal/JJ information/NN)
+  about/IN
+  (NP Dix/NNP 's/POS health/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+259,52,[11],Page 1,B,1,270,0.74,1992-8R8,Dorothea: Memorial Report Caused Uproar - Topic,8,1992,8R8,8,MC,R012908,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,It attacked the reputation of several members of Congress.,"(S
+  It/PRP
+  attacked/VBD
+  the/DT
+  (NP reputation/NN)
+  of/IN
+  (NP several/JJ members/NNS)
+  of/IN
+  (NP Congress/NNP)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,53,[11],Page 1,C,2,278,0.5,1992-8R8,Dorothea: Training From Her Grandmother - Research ,8,1992,8R8,11,MC,R012911,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,53. The training Dorothea Dix received from her grandmother paid off because it,"(S (NP 53/CD) ./.);(S
+  The/DT
+  (NP training/NN Dorothea/NNP Dix/NNP)
+  received/VBD
+  from/IN
+  her/PRP$
+  (NP grandmother/NN)
+  paid/VBD
+  off/RB
+  because/IN
+  it/PRP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,
+261,53,[11],Page 1,C,2,278,0.5,1992-8R8,Dorothea: Training From Her Grandmother - Research ,8,1992,8R8,11,MC,R012911,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,helped her learn how to accept criticism,"(S
+  helped/VBD
+  her/PRP
+  learn/VB
+  how/WRB
+  to/TO
+  accept/VB
+  (NP criticism/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,53,[11],Page 1,C,2,278,0.5,1992-8R8,Dorothea: Training From Her Grandmother - Research ,8,1992,8R8,11,MC,R012911,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,made her decide to be a Sunday school teacher,"(S
+  made/VBD
+  her/PRP$
+  (NP decide/NN)
+  to/TO
+  be/VB
+  a/DT
+  (NP Sunday/NNP school/NN teacher/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,
+263,53,[11],Page 1,C,2,278,0.5,1992-8R8,Dorothea: Training From Her Grandmother - Research ,8,1992,8R8,11,MC,R012911,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,helped her to conduct careful research,(S helped/VBD her/PRP to/TO conduct/VB (NP careful/JJ research/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,53,[11],Page 1,C,2,278,0.5,1992-8R8,Dorothea: Training From Her Grandmother - Research ,8,1992,8R8,11,MC,R012911,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,made her aware of the problem of people with mental illness,"(S
+  made/VBN
+  her/PRP$
+  (NP aware/NN)
+  of/IN
+  the/DT
+  (NP problem/NN)
+  of/IN
+  (NP people/NNS)
+  with/IN
+  (NP mental/JJ illness/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,54,[11],Page 1,A,1,269,0.83,1992-8R8,Dorothea: If Careful Notes Weren't Made - Not Accept,8,1992,8R8,12,MC,R012912,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,54. What would most likely have happened if Dorothea Dix had not taken careful notes during her visits to the asylums?,"(S (NP 54/CD) ./.);(S
+  What/WP
+  would/MD
+  most/RBS
+  likely/RB
+  have/VBP
+  happened/VBN
+  if/IN
+  (NP Dorothea/NNP Dix/NNP)
+  had/VBD
+  not/RB
+  taken/VBN
+  (NP careful/JJ notes/NNS)
+  during/IN
+  her/PRP$
+  (NP visits/NNS)
+  to/TO
+  the/DT
+  (NP asylums/NNS)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,54,[11],Page 1,A,1,269,0.83,1992-8R8,Dorothea: If Careful Notes Weren't Made - Not Accept,8,1992,8R8,12,MC,R012912,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,Her research would never have been accepted.,"(S
+  Her/PRP$
+  (NP research/NN)
+  would/MD
+  never/RB
+  have/VB
+  been/VBN
+  accepted/VBN
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,54,[11],Page 1,A,1,269,0.83,1992-8R8,Dorothea: If Careful Notes Weren't Made - Not Accept,8,1992,8R8,12,MC,R012912,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,She would have had financial problems.,"(S
+  She/PRP
+  would/MD
+  have/VB
+  had/VBN
+  (NP financial/JJ problems/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,54,[11],Page 1,A,1,269,0.83,1992-8R8,Dorothea: If Careful Notes Weren't Made - Not Accept,8,1992,8R8,12,MC,R012912,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,Her grandmother would have been embarrassed.,"(S
+  Her/PRP$
+  (NP grandmother/NN)
+  would/MD
+  have/VB
+  been/VBN
+  embarrassed/VBN
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,54,[11],Page 1,A,1,269,0.83,1992-8R8,Dorothea: If Careful Notes Weren't Made - Not Accept,8,1992,8R8,12,MC,R012912,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,She would have developed a better memory for detail.,"(S
+  She/PRP
+  would/MD
+  have/VB
+  developed/VBN
+  a/DT
+  better/JJR
+  (NP memory/NN)
+  for/IN
+  (NP detail/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,55,[11],Page 1,B,1,269,0.79,1992-8R8,Dorothea: Why Poor Health is Mentioned - Overcame,8,1992,8R8,13,MC,R012913,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,55. Why is Dorothea Dix's poor health mentioned periodically throughout the passage?,"(S (NP 55/CD) ./.);(S
+  Why/WRB
+  is/VBZ
+  (NP Dorothea/NNP Dix/NNP 's/POS poor/JJ health/NN)
+  mentioned/VBD
+  periodically/RB
+  throughout/IN
+  the/DT
+  (NP passage/NN)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,55,[11],Page 1,B,1,269,0.79,1992-8R8,Dorothea: Why Poor Health is Mentioned - Overcame,8,1992,8R8,13,MC,R012913,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,To make us feel sorry for her,(S To/TO make/VB us/PRP feel/VB (NP sorry/NN) for/IN her/PRP$);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,55,[11],Page 1,B,1,269,0.79,1992-8R8,Dorothea: Why Poor Health is Mentioned - Overcame,8,1992,8R8,13,MC,R012913,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,To remind us of the difficulties she overcame,"(S
+  To/TO
+  remind/VB
+  us/PRP
+  of/IN
+  the/DT
+  (NP difficulties/NNS)
+  she/PRP
+  overcame/VBD);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,55,[11],Page 1,B,1,269,0.79,1992-8R8,Dorothea: Why Poor Health is Mentioned - Overcame,8,1992,8R8,13,MC,R012913,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,To highlight her unrealistic attitude about good health,"(S
+  To/TO
+  highlight/VB
+  her/PRP$
+  (NP unrealistic/JJ attitude/NN)
+  about/IN
+  (NP good/JJ health/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,
+274,55,[11],Page 1,B,1,269,0.79,1992-8R8,Dorothea: Why Poor Health is Mentioned - Overcame,8,1992,8R8,13,MC,R012913,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,To draw attention to the effects of tuberculosis,"(S
+  To/TO
+  draw/VB
+  (NP attention/NN)
+  to/TO
+  the/DT
+  (NP effects/NNS)
+  of/IN
+  (NP tuberculosis/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,56,[12],Page 1,B,2,262,0.57,1992-8R13,Oregon Trail: 1st Passage Mostly About - Development ,8,1992,8R13,1,MC,R014701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,Stem,56. The first passage is mostly about,(S (NP 56/CD) ./.);(S The/DT (NP first/JJ passage/NN) is/VBZ mostly/RB about/IN);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,56,[12],Page 1,B,2,262,0.57,1992-8R13,Oregon Trail: 1st Passage Mostly About - Development ,8,1992,8R13,1,MC,R014701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,A,the settling of the Oregon Territory,"(S
+  the/DT
+  (NP settling/NN)
+  of/IN
+  the/DT
+  (NP Oregon/NNP Territory/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,56,[12],Page 1,B,2,262,0.57,1992-8R13,Oregon Trail: 1st Passage Mostly About - Development ,8,1992,8R13,1,MC,R014701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,B,the development and use of the Oregon Trail,"(S
+  the/DT
+  (NP development/NN)
+  and/CC
+  (NP use/NN)
+  of/IN
+  the/DT
+  (NP Oregon/NNP Trail/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,56,[12],Page 1,B,2,262,0.57,1992-8R13,Oregon Trail: 1st Passage Mostly About - Development ,8,1992,8R13,1,MC,R014701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,C,reasons that people wanted to move to Oregon,"(S
+  (NP reasons/NNS)
+  that/WDT
+  (NP people/NNS)
+  wanted/VBD
+  to/TO
+  move/VB
+  to/TO
+  (NP Oregon/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,56,[12],Page 1,B,2,262,0.57,1992-8R13,Oregon Trail: 1st Passage Mostly About - Development ,8,1992,8R13,1,MC,R014701,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,D,the plight of American Indians,(S the/DT (NP plight/NN) of/IN (NP American/JJ Indians/NNPS));,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,57,[12],Page 2,D,3,277,0.4,1992-8R13,Oregon Trail: 2nd Passage Mostly About - Slice of,8,1992,8R13,7,MC,R014707,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,Stem,57. The second passage is mostly about,(S (NP 57/CD) ./.);(S The/DT (NP second/JJ passage/NN) is/VBZ mostly/RB about/IN);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,57,[12],Page 2,D,3,277,0.4,1992-8R13,Oregon Trail: 2nd Passage Mostly About - Slice of,8,1992,8R13,7,MC,R014707,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,A,the catching of a particularly large catfish,"(S
+  the/DT
+  (NP catching/NN)
+  of/IN
+  a/DT
+  particularly/RB
+  (NP large/JJ catfish/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,57,[12],Page 2,D,3,277,0.4,1992-8R13,Oregon Trail: 2nd Passage Mostly About - Slice of,8,1992,8R13,7,MC,R014707,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,B,how a brief diary account can become a short story,"(S
+  how/WRB
+  a/DT
+  (NP brief/JJ diary/JJ account/NN)
+  can/MD
+  become/VB
+  a/DT
+  (NP short/JJ story/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,57,[12],Page 2,D,3,277,0.4,1992-8R13,Oregon Trail: 2nd Passage Mostly About - Slice of,8,1992,8R13,7,MC,R014707,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,C,how a daughter tried to impress her father,"(S
+  how/WRB
+  a/DT
+  (NP daughter/NN)
+  tried/VBN
+  to/TO
+  impress/VB
+  her/PRP$
+  (NP father/NN));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,57,[12],Page 2,D,3,277,0.4,1992-8R13,Oregon Trail: 2nd Passage Mostly About - Slice of,8,1992,8R13,7,MC,R014707,Reading for Information,Forming a General Understanding,NoAsign,NoAsign,D,"a ""slice of life"" from along the Oregon Trail","(S
+  a/DT
+  ``/``
+  (NP slice/NN)
+  of/IN
+  (NP life/NN)
+  ''/''
+  from/IN
+  along/IN
+  the/DT
+  (NP Oregon/NNP Trail/NNP));",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,58,[12],Page 2,A,1,266,0.76,1992-8R13,Oregon Trail: 2nd Passage is Believable - Diary,8,1992,8R13,8,MC,R014708,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,Stem,58. The reason that the second passage is believable is that it,"(S (NP 58/CD) ./.);(S
+  The/DT
+  (NP reason/NN)
+  that/IN
+  the/DT
+  (NP second/JJ passage/NN)
+  is/VBZ
+  (NP believable/JJ)
+  is/VBZ
+  that/IN
+  it/PRP);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,58,[12],Page 2,A,1,266,0.76,1992-8R13,Oregon Trail: 2nd Passage is Believable - Diary,8,1992,8R13,8,MC,R014708,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,A,is based on an actual diary entry,(S is/VBZ based/VBN on/IN an/DT (NP actual/JJ diary/JJ entry/NN));,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287,58,[12],Page 2,A,1,266,0.76,1992-8R13,Oregon Trail: 2nd Passage is Believable - Diary,8,1992,8R13,8,MC,R014708,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,B,has dialogue between the characters,(S has/VBZ (NP dialogue/NN) between/IN the/DT (NP characters/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,58,[12],Page 2,A,1,266,0.76,1992-8R13,Oregon Trail: 2nd Passage is Believable - Diary,8,1992,8R13,8,MC,R014708,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,C,has a surprise ending,(S has/VBZ a/DT (NP surprise/NN) ending/VBG);,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,58,[12],Page 2,A,1,266,0.76,1992-8R13,Oregon Trail: 2nd Passage is Believable - Diary,8,1992,8R13,8,MC,R014708,Reading for Information,Examining Content and Structure,NoAsign,NoAsign,D,includes elements of suspense,(S includes/VBZ (NP elements/NNS) of/IN (NP suspense/NN));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,59,[12],Page 1;Page 2,B,1,266,0.75,1992-8R13,Oregon Trail: Shows Trail Was Dangerous - 30000 Died,8,1992,8R13,11,MC,R014711,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,59. What evidence shows that traveling the Oregon Trail was dangerous?,"(S (NP 59/CD) ./.);(S
+  What/WP
+  (NP evidence/NN)
+  shows/VBZ
+  that/IN
+  traveling/VBG
+  the/DT
+  (NP Oregon/NNP Trail/NNP)
+  was/VBD
+  (NP dangerous/JJ)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,59,[12],Page 1;Page 2,B,1,266,0.75,1992-8R13,Oregon Trail: Shows Trail Was Dangerous - 30000 Died,8,1992,8R13,11,MC,R014711,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,The United States and Britain almost fought a border war.,"(S
+  The/DT
+  (NP United/NNP States/NNPS)
+  and/CC
+  (NP Britain/NNP)
+  almost/RB
+  fought/VBD
+  a/DT
+  (NP border/NN war/NN)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,
+292,59,[12],Page 1;Page 2,B,1,266,0.75,1992-8R13,Oregon Trail: Shows Trail Was Dangerous - 30000 Died,8,1992,8R13,11,MC,R014711,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,"In a 16-year period, at least 30,000 emigrants died on the trail.","(S
+  In/IN
+  a/DT
+  (NP 16-year/JJ period/NN)
+  ,/,
+  at/IN
+  least/JJS
+  (NP 30,000/CD emigrants/NNS)
+  died/VBD
+  on/IN
+  the/DT
+  (NP trail/NN)
+  ./.);",,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,59,[12],Page 1;Page 2,B,1,266,0.75,1992-8R13,Oregon Trail: Shows Trail Was Dangerous - 30000 Died,8,1992,8R13,11,MC,R014711,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,What few doctors were available along the trail were poorly supplied.,"(S
+  What/WP
+  (NP few/JJ doctors/NNS)
+  were/VBD
+  (NP available/JJ)
+  along/IN
+  the/DT
+  (NP trail/NN)
+  were/VBD
+  poorly/RB
+  supplied/VBN
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,59,[12],Page 1;Page 2,B,1,266,0.75,1992-8R13,Oregon Trail: Shows Trail Was Dangerous - 30000 Died,8,1992,8R13,11,MC,R014711,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,Red Cloud and Crazy Horse fought to save their homelands.,"(S
+  (NP Red/JJ Cloud/NNP)
+  and/CC
+  (NP Crazy/NNP Horse/NNP)
+  fought/VBD
+  to/TO
+  save/VB
+  their/PRP$
+  (NP homelands/NNS)
+  ./.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,60,[12],Page 1;Page 2,C,3,264,0.37,1992-8R13,Oregon Trail: Who Started Route of Trail - Indians,8,1992,8R13,12,MC,R014712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,Stem,60. Who started the route that later became the Oregon Trail?,"(S
+  (NP 60./CD)
+  Who/WP
+  started/VBD
+  the/DT
+  (NP route/NN)
+  that/WDT
+  later/RB
+  became/VBD
+  the/DT
+  (NP Oregon/NNP Trail/NNP)
+  ?/.);",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,60,[12],Page 1;Page 2,C,3,264,0.37,1992-8R13,Oregon Trail: Who Started Route of Trail - Indians,8,1992,8R13,12,MC,R014712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,A,French fur traders,(S (NP French/JJ fur/NN traders/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,60,[12],Page 1;Page 2,C,3,264,0.37,1992-8R13,Oregon Trail: Who Started Route of Trail - Indians,8,1992,8R13,12,MC,R014712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,B,Pioneers,(S (NP Pioneers/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,60,[12],Page 1;Page 2,C,3,264,0.37,1992-8R13,Oregon Trail: Who Started Route of Trail - Indians,8,1992,8R13,12,MC,R014712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,C,Indians,(S (NP Indians/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,60,[12],Page 1;Page 2,C,3,264,0.37,1992-8R13,Oregon Trail: Who Started Route of Trail - Indians,8,1992,8R13,12,MC,R014712,Reading for Information,Developing Interpretation,NoAsign,NoAsign,D,British soldiers,(S (NP British/JJ soldiers/NNS));,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
