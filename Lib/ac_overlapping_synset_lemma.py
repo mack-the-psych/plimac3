@@ -80,13 +80,18 @@ def ac_overlapping_synset_lemma(df_ac_q, question_id_clm, stem_option_name_clm,
     df_ac_buf = df_ac_buf.set_index([question_id_clm, stem_option_name_clm])
     df_ac_buf_lemma = df_ac_buf.iloc[:, (lemma_start_q - 2):]
 
-    df_ac_syn_buf = df_ac_syn_buf.set_index([question_id_clm, stem_option_name_clm])
+    # Modified by Makoto.Sano@Mack-the-Psych.com on 06/08/2020
+    # df_ac_syn_buf = df_ac_syn_buf.set_index([question_id_clm, stem_option_name_clm])
+    df_ac_syn_buf.set_index([question_id_clm, stem_option_name_clm], inplace = True)
+
     df_ac_syn_buf_synset = df_ac_syn_buf.iloc[:, (synset_start_q -2):]
 
     if stop_words != None:
         df_ac_buf_lemma = df_ac_buf_lemma.drop(stop_words, axis=1)
-        df_ac_syn_buf_synset = df_ac_syn_buf_synset.drop(stop_words, axis=1)
-    
+        # Modified by Makoto.Sano@Mack-the-Psych.com on 06/08/2020        
+        # df_ac_syn_buf_synset = df_ac_syn_buf_synset.drop(stop_words, axis=1)
+        df_ac_syn_buf_synset.drop(stop_words, axis=1, inplace = True)
+        
     if df_ac_p is not None:
         df_ac_buf_p = df_ac_p.copy()
         df_ac_buf_p = df_ac_buf_p.set_index([passage_name_clm_p, passage_sec_clm_p])
