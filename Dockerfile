@@ -1,7 +1,7 @@
 FROM continuumio/anaconda3:4.4.0
 
 RUN pip install --upgrade pip && \
-    pip install janome
+    pip install janome==0.3.10
 
 RUN python -m nltk.downloader book
 
