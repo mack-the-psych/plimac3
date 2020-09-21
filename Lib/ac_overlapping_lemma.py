@@ -151,6 +151,8 @@ def ac_overlapping_terms(df_doc_term_matrix):
                     dtype=object), doc_term_matrix_index,
                     doc_term_matrix_clm_terms)
 
+    # modified by Makoto.Sano@Mack-the-Psych.com 09/20/2020
+    '''
     df_overlapping_matrix = pd.concat([df_overlapping_count_matrix, df_overlapping_term_matrix], axis=1)
 
     for k, z in enumerate(doc_term_matrix_index):
@@ -171,5 +173,20 @@ def ac_overlapping_terms(df_doc_term_matrix):
                             else:
                                 s = ';'.join([s, doc_term_matrix_clms[j]])
                             df_overlapping_matrix.iloc[k, i + len(doc_term_matrix_clm_count)] = s
+    '''
+    for k, z in enumerate(doc_term_matrix_index):
+        for i, x in enumerate(doc_term_matrix_clm_count):
+            if k == i:
+                df_overlapping_count_matrix.iloc[k, i] = np.nan
+            else:
+                se_multiply = df_doc_term_matrix.iloc[k] * df_doc_term_matrix.iloc[i]
+                se_match = se_multiply / se_multiply
+                df_overlapping_count_matrix.iloc[k, i] = int(se_match.sum())
+
+                se_match.index = df_doc_term_matrix.columns
+                s = ';'.join(se_match[se_match > 0].index)
+                df_overlapping_term_matrix.iloc[k, i] = s
+
+    df_overlapping_matrix = pd.concat([df_overlapping_count_matrix, df_overlapping_term_matrix], axis=1)
 
     return df_overlapping_matrix

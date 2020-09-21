@@ -21,17 +21,19 @@ df_ac_lemma_p = df_ac_lemma_p.set_index('AC_Doc_ID')
 df_ac_hypernyms_q = pd.read_csv(data_dir + r'Hypernyms-Question.csv')
 df_ac_hypernyms_q = df_ac_hypernyms_q.set_index('AC_Doc_ID')
 
+# modified by Makoto.Sano@Mack-the-Psych.com 09/21/2020
 df_ac_overlapping_hyp_lemma = ac_overlapping_synset_lemma(df_ac_lemma_q, 'Question#', 'Pre_Col_Name',
                             Lemma_count_start_from_question - 1, df_ac_hypernyms_q,
                             hypernyms_count_start_from_question - 1, None,
                             'Passage_Name', 'Reference_Passage_Section',
                             df_ac_lemma_p, 'Passage_Name',
-                            'Passage_Section', Lemma_count_start_from_passage -1)
-
+                            'Passage_Section', Lemma_count_start_from_passage -1, 'hype')
+'''
 column_list = []
 for x in df_ac_overlapping_hyp_lemma.columns:
     column_list = column_list + [x.replace('_s_', '_hype_')]
 df_ac_overlapping_hyp_lemma.columns = column_list
+'''
 
 df_ac_overlapping_hyp_lemma.to_csv(data_dir + test_file)
 

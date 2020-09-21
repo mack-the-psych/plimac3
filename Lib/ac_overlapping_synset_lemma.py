@@ -57,14 +57,16 @@
 #                           columns in the passage DataFrame, from the point 
 #                           to the end, all the columns should be the lemma 
 #                           count columns
+#            idntfr = 's': identifier of the output variables
 # Returns Result: pandas.DataFrame as a result of overlapping synset counts
 ################################################################################
+# add identfir by Makoto.Sano@Mack-the-Psych.com 09/21/2020
 def ac_overlapping_synset_lemma(df_ac_q, question_id_clm, stem_option_name_clm, 
                          lemma_start_q, df_ac_q_syn, 
                          synset_start_q, stop_words = None,
                          passage_name_clm_q = None, passage_sec_clm_q = None,
                          df_ac_p = None, passage_name_clm_p = None,
-                         passage_sec_clm_p = None, lemma_start_p = None):
+                         passage_sec_clm_p = None, lemma_start_p = None, idntfr = 's'):
     import pandas as pd
     import numpy as np
 
@@ -139,20 +141,25 @@ def ac_overlapping_synset_lemma(df_ac_q, question_id_clm, stem_option_name_clm,
         #df_ac_buf_lemma_x = df_ac_syn_buf_synset_lemma_x.iloc[row_lgth:, :]
         
         row_lgth_o = df_ac_buf_lemma_x.shape[0]
+
+        # The appending operation takes a few second and needs to be optimized
+        # 09/20/2020 Makoto.Sano@Mack-the-Psych.com
         df_ac_syn_buf_synset_lemma_x = df_ac_buf_lemma_x.append(df_ac_syn_buf_synset_x)
         df_ac_buf_lemma_x = df_ac_syn_buf_synset_lemma_x.iloc[:row_lgth_o, :]
         df_ac_syn_buf_synset_x = df_ac_syn_buf_synset_lemma_x.iloc[row_lgth_o:, :]
         
         df_ac_syn_buf_synset_x = ac_clear_overlapping_terms_by_doc(df_ac_syn_buf_synset_x,
                                                         df_ac_buf_lemma_x)
-        
+
+        # modified by Makoto.Sano@Mack-the-Psych.com 09/21/2020
         df_ac_overlap_doc = ac_overlapping_terms_w_outer_matrix(df_ac_syn_buf_synset_x,
-                                                                df_ac_buf_lemma_x)
-       
+                                                                df_ac_buf_lemma_x, idntfr)
+        
         df_ac_overlap_doc = df_ac_overlap_doc.reset_index()
         df_doc = pd.DataFrame({ question_id_clm : np.array([x] *
                 len(df_ac_overlap_doc)) })
         df_ac_overlap_doc[question_id_clm] = df_doc[question_id_clm]
+
         df_res = df_res.append(df_ac_overlap_doc, ignore_index=True)
 
     df_doc_id = pd.DataFrame({ ac_buf_index_name : ac_buf_index })
@@ -201,7 +208,7 @@ def ac_clear_overlapping_terms_by_doc(df_cleared_matrix, df_overlapping_matrix):
 #                             the DataFrame, 
 # Returns Result: pandas.DataFrame as a result of overlapping synset counts
 ################################################################################
-def ac_overlapping_terms_w_outer_matrix(df_doc_term_matrix, df_outer_matrix):
+def ac_overlapping_terms_w_outer_matrix(df_doc_term_matrix, df_outer_matrix, idntfr):
     import pandas as pd
     import numpy as np
 
@@ -216,11 +223,15 @@ def ac_overlapping_terms_w_outer_matrix(df_doc_term_matrix, df_outer_matrix):
     doc_term_matrix_clms = df_doc_term_matrix.columns
 
     for x in outer_matrix_index:
-        s = 'Count_s_' + x
+        # modified by Makoto.Sano@Mack-the-Psych.com 09/21/2020
+        # s = 'Count_s_' + x
+        s = 'Count_' + idntfr + '_' + x
         outer_matrix_clm_count.append(s)  
 
     for x in outer_matrix_index:
-        s = 'Terms_s_' + x 
+        # modified by Makoto.Sano@Mack-the-Psych.com 09/21/2020
+        # s = 'Terms_s_' + x 
+        s = 'Terms_' + idntfr + '_' + x
         outer_matrix_clm_terms.append(s)  
     
 #    df_overlapping_matrix = pd.DataFrame(np.empty((row_lgth, row_lgth_o * 2),
@@ -235,6 +246,8 @@ def ac_overlapping_terms_w_outer_matrix(df_doc_term_matrix, df_outer_matrix):
                     dtype=object), doc_term_matrix_index,
                     outer_matrix_clm_terms)
 
+    # modified by Makoto.Sano@Mack-the-Psych.com 09/20/2020
+    '''
     df_overlapping_matrix = pd.concat([df_overlapping_count_matrix, df_overlapping_term_matrix], axis=1)
 
     for k, z in enumerate(doc_term_matrix_index):
@@ -255,5 +268,20 @@ def ac_overlapping_terms_w_outer_matrix(df_doc_term_matrix, df_outer_matrix):
                             else:
                                 s = ';'.join([s, doc_term_matrix_clms[j]])
                             df_overlapping_matrix.iloc[k, i + len(outer_matrix_clm_count)] = s
+    '''
+    for k, z in enumerate(doc_term_matrix_index):
+        for i, x in enumerate(outer_matrix_clm_count):
+            if k == i:
+                df_overlapping_count_matrix.iloc[k, i] = np.nan
+            else:
+                se_multiply = df_doc_term_matrix.iloc[k] * df_outer_matrix.iloc[i]
+                se_match = se_multiply / se_multiply
+                df_overlapping_count_matrix.iloc[k, i] = int(se_match.sum())
 
+                se_match.index = df_doc_term_matrix.columns
+                s = ';'.join(se_match[se_match > 0].index)
+                df_overlapping_term_matrix.iloc[k, i] = s
+
+    df_overlapping_matrix = pd.concat([df_overlapping_count_matrix, df_overlapping_term_matrix], axis=1)
+    
     return df_overlapping_matrix
