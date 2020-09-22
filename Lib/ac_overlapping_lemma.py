@@ -65,7 +65,23 @@ def ac_overlapping_lemma(df_ac_q, question_id_clm, stem_option_name_clm,
     if df_ac_p is not None:
         df_ac_buf_p = df_ac_p.copy()
         df_ac_buf_p = df_ac_buf_p.set_index([passage_name_clm_p, passage_sec_clm_p])
+        # modified by Makoto.Sano@Mack-the-Psych.com 09/22/2020
+        if stop_words != None:
+            df_ac_buf_p = df_ac_buf_p.drop(stop_words, axis=1)
+        df_ac_buf_p_lemma = df_ac_buf_p.iloc[:, (lemma_start_p -2):]
 
+        # modified by Makoto.Sano@Mack-the-Psych.com 09/22/2020
+        # In order to avoid overhead of the appending operation for each row,
+        # the passage name and passage section name are compounded as a temporal index name
+        df_ac_buf_p_lemma[question_id_clm] = [x[0] + ';' + x[1] for x in df_ac_buf_p_lemma.index]
+        df_ac_buf_p_lemma[stem_option_name_clm] = 'Passage'
+        df_ac_buf_p_lemma = df_ac_buf_p_lemma.set_index([question_id_clm, stem_option_name_clm])
+
+        row_lgth = df_ac_buf_lemma.shape[0]
+        df_ac_buf_q_p_lemma = df_ac_buf_lemma.append(df_ac_buf_p_lemma)
+        df_ac_buf_lemma = df_ac_buf_q_p_lemma.iloc[:row_lgth, :]
+        df_ac_buf_p_lemma = df_ac_buf_q_p_lemma.iloc[row_lgth:, :]
+        
     df_res = pd.DataFrame()
 
     for x in df_ac_id:
@@ -73,23 +89,30 @@ def ac_overlapping_lemma(df_ac_q, question_id_clm, stem_option_name_clm,
 
         if df_ac_p is not None:
             df_q_x = df_ac_buf.xs(x)
-            # Modified by makoto.sano@bluelab.co.jp as a work around 9/2/2018
-            #passage_name = df_q_x.at[df_q_x.index[0], passage_name_clm_q]
             passage_name = df_q_x[passage_name_clm_q][0]
-            #passage_sections = (df_q_x.at[df_q_x.index[0], passage_sec_clm_q]).split(';')
             passage_sections = (df_q_x[passage_sec_clm_q][0]).split(';')            
 
             print('Passage:' + passage_name)
-            df_p_x = df_ac_buf_p.xs(passage_name)
-            df_p_x = df_p_x.loc[passage_sections]
-            df_ac_buf_p_lemma_x = df_p_x.iloc[:, (lemma_start_p -2):]
-            if stop_words != None:
-                df_ac_buf_p_lemma_x = df_ac_buf_p_lemma_x.drop(stop_words, axis=1)
+
+            # modified by Makoto.Sano@Mack-the-Psych.com 09/22/2020
+            # df_p_x = df_ac_buf_p.xs(passage_name)
+            # df_p_x = df_p_x.loc[passage_sections]
+            # df_ac_buf_p_lemma_x = df_p_x.iloc[:, (lemma_start_p -2):]
+
+            # modified by Makoto.Sano@Mack-the-Psych.com 09/22/2020
+            # In order to avoid overhead of the appending operation for each row,
+            # the passage name and passage section name are compounded as a temporal index name
+            # df_ac_buf_p_lemma_x = df_ac_buf_p_lemma.xs(passage_name)
+            # df_ac_buf_p_lemma_x = df_ac_buf_p_lemma_x.loc[passage_sections]
+            df_ac_buf_p_lemma_x = df_ac_buf_p_lemma[[x[0].startswith(passage_name) for x in df_ac_buf_p_lemma.index]]
+            df_ac_buf_p_lemma_x = df_ac_buf_p_lemma_x[[x[0].endswith(tuple(passage_sections)) for x in df_ac_buf_p_lemma_x.index]]
+            
+            # modified by Makoto.Sano@Mack-the-Psych.com 09/22/2020
+            # if stop_words != None:
+            #     df_ac_buf_p_lemma_x = df_ac_buf_p_lemma_x.drop(stop_words, axis=1)
+            
             df_ac_buf_p_lemma_x_sum = pd.DataFrame({ 'Passage' : df_ac_buf_p_lemma_x.sum() })
     
-            # Modified by makoto.sano@bluelab.co.jp as a work around 9/6/2018
-            #df_ac_buf_p_lemma_x_sum_t = df_ac_buf_p_lemma_x_sum.transpose()
-            #df_ac_buf_lemma_x = (df_ac_buf_lemma.xs(x)).append(df_ac_buf_p_lemma_x_sum_t)
             df_ac_buf_lemma_x = (df_ac_buf_p_lemma_x_sum.transpose()).append(df_ac_buf_lemma.xs(x))
             index_arr = df_ac_buf_lemma_x.index.values
             index_arr = np.append(index_arr[1:], index_arr[0])
